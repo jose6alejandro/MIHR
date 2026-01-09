@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252211_194153
+'Robot: ¡Hola! ¿estamos listos?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Qué bien, Jesús! Ya que estamos listos para arrancar, cuéntame, ¿qué tal te ha ido con las técnicas de respiración? ¿Ya has probado alguna antes?'
+ 'Estudiante: si ya usado otras anteriormente'
+ 'Robot: ¡Excelente, Jesús! Qué bueno que ya tienes esa experiencia previa, eso nos da un buen punto de partida. Fíjate, hoy nuestro objetivo es que exploremos juntos cómo esas técnicas de respiración pueden ser tus aliadas para manejar el estrés que a veces se nos presenta en la universidad, ¿sabes? La idea es que te sientas mucho más tranquilo y enfocado, justo cuando lo necesites.'
+ 'Estudiante: okay perfecto'
+ 'Robot: ¡Chévere, Jesús! Ya que estamos en sintonía, vamos a empezar con una técnica sencilla pero súper efectiva, que es la respiración abdominal. Es ideal para ayudarte a concentrarte y bajarle dos al estrés. Para que lo hagamos, te voy a pedir que te pongas cómodo, si quieres puedes sentarte o acostarte. Vas a colocar una mano sobre tu abdomen para que sientas el movimiento. Entonces, inhala suave y profundo por la nariz, sintiendo cómo tu barriga se eleva con el aire. Luego, exhala lentamente por la boca, dejando que tu abdomen se relaje y se contraiga. La idea es que sientas que el aire llega hasta abajo. ¿Te parece si lo intentamos juntos por un par de minuticos?'
+ 'Estudiante: okay me parece bien'
+ 'Robot: ¡Chévere, Jesús! Con tu mano en el abdomen, vamos a arrancar. Inhala despacito por la nariz, como si inflaras un globito en tu barriga. Luego, bota el aire suavemente por la boca, sintiendo cómo se desinfla. Siente cómo llega el aire hasta abajo y cómo se relaja todo al exhalar. Házlo a tu ritmo por un par de minuticos y luego me cuentas cómo te sientes, ¿dale?'
+ 'Estudiante: listo gracias'
+ 'Robot: ¡Qué bien, Jesús! Ya que terminaste, cuéntame, ¿cómo te sentiste después de practicar la respiración abdominal? ¿Notaste alguna diferencia o te resultó fácil?'
+ 'Estudiante: si me resultó fácil y menos sentido un poco más tranquilo poco más relajado un poco más descansado'
+ 'Robot: ¡Chévere, Jesús! Me alegra muchísimo que te hayas sentido así de tranquilo y relajado. Ya que viste lo fácil y efectivo que es, cuéntame, ¿cómo crees que esta respiración abdominal podría ayudarte específicamente con el estrés o la concentración que a veces te hace falta en tus estudios o en el día a día universitario?'
+ 'Estudiante: pues si poco tener un poco estar más tranquilo para poder hacer en actividades y phoebe recuperar el enfoque'
+ 'Robot: ¡Excelente, Jesús! Me alegra muchísimo que veas tan claro cómo esta respiración te puede ayudar a estar más tranquilo y a recuperar el enfoque justo cuando lo necesites en tus estudios. Esa es la idea, que tengas una herramienta práctica siempre a la mano. De verdad que te felicito por tu disposición hoy. Anímate a practicarla a menudo, verás que te será de gran utilidad. ¡Muchísimo éxito en todo y cuídate mucho!'

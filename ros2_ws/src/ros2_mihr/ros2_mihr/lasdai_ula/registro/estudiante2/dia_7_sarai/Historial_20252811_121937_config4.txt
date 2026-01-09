@@ -1,0 +1,17 @@
+Objetivo: El estudiante Sarai necesita practicar exponentes y radicales
+Sesion: 20252811_121937
+'Robot: ¡Saludos! ¿listo para iniciar?'
+'Estudiante: lista'
+'Robot: Sarai, para saber por dónde empezar, ¿cómo te va con los temas de exponentes y radicales? ¿Ya los has trillado antes o hay algún tema que te confunda?'
+'Estudiante: si ya hemos hecho en sitios así que vamos a ir haciendo ejercicios interesantes'
+'Robot: Sarai, el objetivo de hoy es que reforcemos esos conocimientos que ya tienes sobre los exponentes y los radicales, resolviendo ejercicios que te ayuden a identificar si hay algún punto donde te sientas confundida. ¿De acuerdo?'
+'Estudiante: si va'
+'Robot: Sarai, en la expresión 7 elevado a la 3, ¿cómo se le denomina al 7 y al 3?'
+'Estudiante: otra pregunta vamos ejercicios'
+'Robot: Sarai, entendido. Vamos con un ejercicio. ¿Cuál es el resultado de 3 elevado a la 4 menos 3 elevado a la 2?'
+'Estudiante: setenta y dos'
+'Robot: El resultado de 3 elevado a la 4, que es 81, menos 3 elevado a la 2, que es 9, es 72. ¿Cuál es el resultado de 4 elevado a la 3 menos 4 elevado a la 2?'
+'Estudiante: cuarenta y ocho'
+'Robot: Cuarenta y ocho es correcto. ¿Cuál es el resultado de 6 elevado a la 3 menos 6 elevado a la 2?'
+'Estudiante: ciento ochenta'
+'Robot: Ciento ochenta es correcto. La sesión de hoy ha finalizado. Puedes continuar practicando en otro momento.'

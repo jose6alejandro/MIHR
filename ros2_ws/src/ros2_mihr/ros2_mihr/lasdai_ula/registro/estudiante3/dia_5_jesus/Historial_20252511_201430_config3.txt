@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252511_201430
+'Robot: ¡Hola! ¿estás preparado?'
+ 'Estudiante: sí señora estoy preparado'
+ 'Robot: ¡Chévere, Jesús, me alegra que estés preparado! Para arrancar, cuéntame un poquito, ¿cómo te sientes con eso de los exponentes y los radicales? ¿Ya habías visto algo de eso, o es un tema que te parece nuevo?'
+ 'Estudiante: yo haya visto antes el tema al uno para mí'
+ 'Robot: ¡Fino, Jesús! Me parece excelente que ya tengas una base. Mira, el objetivo de hoy es que repasemos bien los exponentes y los radicales, ¿sabes? Que aclaremos esas dudas y que veas cómo la notación de potencias nos ayuda a entender mejor los cálculos. Así vas conectando todo y te queda clarito.'
+ 'Estudiante: se perfecto'
+ 'Robot: ¡Excelente, Jesús! Qué bueno que todo esté clarito. Para empezar a calentar motores y refrescar la memoria, te tengo una preguntica conceptual: en la expresión 7 elevado a la 3, ¿cómo se le denomina al 7 y cómo se le denomina al 3?'
+ 'Estudiante: sería la base y el tres serían exponente'
+ 'Robot: ¡Exacto, Jesús! Lo tienes clarito, el siete es la base y el tres es el exponente, ¡demasiado bien! Ahora, para seguir calentando motores, ¿me dices cuál es el resultado de cuatro elevado a la tres más dos elevado a la cuatro?'
+ 'Estudiante: me repite la expresión por favor'
+ 'Robot: Claro que sí, Jesús. La expresión es: ¿cuál es el resultado de cuatro elevado a la tres más dos elevado a la cuatro? ¡Échale cabeza!'
+ 'Estudiante: en resultado sería ochenta'
+ 'Robot: ¡Ese es, Jesús! Tienes toda la razón, el resultado es ochenta. ¡Vas volando con esto de los exponentes!\n\nAhora, para ponerle un poquito más de sabor, te tengo este problemita: Un cultivo de levadura triplica su tamaño cada hora. Si empezamos con cincuenta gramos de levadura, ¿cuántos gramos habrá después de dos horas?'
+ 'Estudiante: la respuesta sería trescientos'
+ 'Robot: Casi, casi, Jesús, ¡pero no te preocupes, lo importante es la práctica! Mira, ya por hoy hemos cubierto bastante. Me encantó verte tan pilas con los exponentes y los radicales. Sigue así y vas a dominar esto rapidísimo. ¡Ha sido un placer echarte una mano hoy, Jesús! ¡Échale pichón y nos vemos en una próxima oportunidad!'

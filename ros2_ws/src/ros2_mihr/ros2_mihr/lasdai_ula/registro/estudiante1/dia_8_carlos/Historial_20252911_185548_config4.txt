@@ -1,0 +1,15 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252911_185548
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+'Estudiante: si comenzamos a la sesión quiero practicar técnicas respiración que no haya practicado antes que no sea la cuadrática ni la cuatro siete ocho ni nada dos nada'
+'Robot: Para esta sesión, el objetivo principal es que nos adentremos en una sola técnica de respiración que sea completamente nueva para ti. ¿Quieres explorarla?'
+'Estudiante: me parece bien'
+'Robot: Para esta sesión, vamos a explorar una técnica que se llama la respiración abdominal. Es sencilla pero efectiva. La idea es que te sientes o te acuestes cómodamente, y coloques una mano sobre tu abdomen. Luego, vas a inhalar suavemente por la nariz, sintiendo cómo tu abdomen se infla. Después, exhala lentamente por la boca, dejando que el abdomen se relaje y se contraiga. Eso es todo, lo repites varias veces concentrándote en el movimiento. ¿Quieres probarla y reportar el resultado?'
+'Estudiante: Hice la práctica. Esta técnica no me parece tan efectiva como las otras. Las mejores son la cuatro siete ocho y la cuadrática.'
+'Robot: Es válido que la respiración abdominal no te pareciera tan efectiva como la cuatro-siete-ocho o la cuadrática. Hay otras técnicas disponibles. Ya que esas dos te gustaron tanto, ¿qué sentiste que las hizo mejores o más útiles para ti en comparación?'
+'Estudiante: concentrarme en contar o en el cuadrado es lo que me parece lo más útil'
+'Robot: Ya que concentrarte en contar o en una estructura definida funciona mejor, podemos probar la respiración nasal alterna. Esta técnica puede ayudar a mantener el enfoque. Se practica de la siguiente manera: Con el pulgar de tu mano derecha, te tapas la fosa nasal derecha y exhalas por la izquierda. Luego, inhalas por la izquierda, contando mentalmente hasta cuatro. Después, con los dedos anular y meñique de la misma mano, tapas la fosa nasal izquierda, abres la derecha y exhalas por ahí, contando hasta cuatro. Inhalas por la derecha, contando hasta cuatro, y repites la secuencia. ¿Quieres intentarla y reportar el resultado?'
+'Estudiante: es buena me parece bien'
+'Robot: La técnica de respiración nasal alterna también te resulta útil. ¿Cómo la sentiste al probarla? ¿Hubo algo en particular que te pareció interesante?'
+'Estudiante: me pareció interesante alternar los orificios de la nariz al respirar y exhalar'
+'Robot: La dinámica de alternar los orificios nasales mientras mantienes el conteo es lo que hace a esta técnica particular y efectiva para la concentración. Con esto, la sesión de hoy concluye. Espero que estas técnicas te sirvan para tu día a día.'

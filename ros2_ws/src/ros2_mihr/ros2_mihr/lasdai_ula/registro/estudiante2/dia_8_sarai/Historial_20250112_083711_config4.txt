@@ -1,0 +1,16 @@
+Objetivo: El estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20250112_083711
+'Robot: ¡Saludos! ¿listo para iniciar?'
+'Robot: ¿Estás preparado?'
+'Estudiante: hola sí'
+'Robot: Comencemos.'
+'Estudiante: si arranque emocionales dame siete no dame diez técnicas de respiración y yo te digo la que conozco y la te parece'
+'Robot: Antes de revisar las diez técnicas de respiración, ¿deseas conocer el objetivo de la sesión?'
+'Estudiante: okay'
+'Robot: El objetivo es explorar técnicas de respiración para proporcionar herramientas prácticas para el manejo del estrés o la ansiedad. Luego, puedes indicar cuáles técnicas conoces o te interesan. ¿Qué te parece?'
+'Estudiante: bien'
+'Robot: Comenzaremos con la técnica de respiración cuatro-siete-ocho:\n\nPrimero, inhalar por la nariz mientras cuentas hasta cuatro.\nDespués, aguantar el aire en los pulmones por siete segundos.\nY para finalizar, exhalar por la boca, con un sonido de "shhh" o un zumbido, mientras cuentas hasta ocho.\nRepetir este ciclo unas cuatro veces. ¿Deseas intentarla ahora? Reporta tu sensación.'
+'Estudiante: ya la hice'
+'Robot: ¿Cómo fue la experiencia al realizar la técnica? ¿Notaste alguna diferencia?'
+'Estudiante: me gustó porque me relajo siento como si mi mente como si tuviera la mente en blanco pero me dio un poquito ni un poquito en adams'
+'Robot: La sensación de relajación es el objetivo. El mareo inicial puede ocurrir, la práctica puede ayudar a ajustarlo.\n\nLa sesión finaliza. Gracias.'

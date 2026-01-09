@@ -1,0 +1,13 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252311_201654
+'Robot: ¡Hola! ¿estás preparado?'
+ 'Estudiante: sí estoy preparado'
+ 'Robot: ¡Qué chévere! Ya que estás listo, antes de meternos de lleno con los exponentes y radicales, ¿ya los habías visto antes o es tu primera vez con ellos?'
+ 'Estudiante: sí estoy familiarizado con el tema'
+ 'Robot: ¡Perfecto! Qué bueno que ya estás en sintonía con el tema, eso nos ayuda un montón. Mira, la meta de hoy es que le echemos un ojo a los exponentes y radicales para reforzar esos conocimientos que ya tienes, y si hay alguna duda, la aclaramos de una vez. ¿Qué te parece?'
+ 'Estudiante: es una excelente idea'
+ 'Robot: ¡Buenísimo! Me parece excelente que estemos en la misma sintonía. Para calentar motores y ver cómo andamos, ¿qué te parece si resolvemos un ejercicio sencillito? A ver, dime: ¿cuánto te da cinco elevado a la dos, o sea, cinco al cuadrado?'
+ 'Estudiante: daría veinticinco'
+ 'Robot: ¡Correcto! ¡Lo hiciste excelente! Ahora, para ponerle un poquito más de sabor, ¿cuánto te da tres elevado a la cuatro?'
+ 'Estudiante: ochenta y uno'
+ 'Robot: ¡Excelente! Demostraste que tienes el tema súper claro. Por hoy lo dejamos hasta aquí, me encantó ayudarte. ¡Que tengas un resto del día chévere!'

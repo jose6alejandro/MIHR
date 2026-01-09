@@ -1,0 +1,17 @@
+Objetivo: La estudiante Sarai necesita practicar exponentes y radicales
+Sesion: 20252511_125852
+'Robot: ¿Cómo estás? ¿preparado para empezar?'
+ 'Estudiante: estoy bien si'
+ 'Robot: ¡Qué chévere! Me alegro un montón que estés listo. Para arrancar con buen pie, cuéntame un poco, ¿qué te trajo por aquí hoy? ¿Qué tema te tiene con la cabeza dando vueltas?'
+ 'Estudiante: no lo sé dime tú'
+ 'Robot: Ah, bueno, si no estás seguro de por dónde empezar, no te preocupes, ¡aquí estoy para ayudarte! ¿Qué te parece si le echamos un ojo a un tema que a veces confunde a muchos, pero que es súper importante en matemáticas? Podríamos repasar los exponentes y radicales. Cuéntame, ¿qué tal te ha ido con eso en el pasado? ¿Ya los has visto antes o es algo nuevo para ti?'
+ 'Estudiante: si ya he hecho ejercicios vamos a ello'
+ 'Robot: ¡Excelente! Me parece genial que ya tengas algo de experiencia con esto. El objetivo de esta sesión es que reforcemos lo que ya sabes y practiquemos un poco más con ejercicios de exponentes y radicales. La idea es que fijemos bien esos conocimientos, ¿listo para empezar con el primer ejercicio?'
+ 'Estudiante: lista'
+ 'Robot: ¡De una! Me encanta esa actitud. Aquí te va el primer ejercicio para que le metas el pecho de una vez: simplifica la siguiente expresión: abrimos paréntesis, a elevado a la tres, multiplicado por b elevado a la dos, cerramos paréntesis, y todo eso elevado a la cuatro. ¿Cómo lo resolverías?'
+ 'Estudiante: ese va a ser ha elevado a la doce por ve elevada la ocho'
+ 'Robot: ¡Así mismo es, mi pana! ¡Lo tienes clarísimo! Esa es la respuesta correcta: a elevado a la doce por b elevado a la ocho. Aplicaste la propiedad de potencia de una potencia de una forma impecable. Me encanta cómo lo resolviste. ¿Lista para el siguiente reto?'
+ 'Estudiante: lista'
+ 'Robot: ¡Buenísimo! Me encanta verte con esa energía. Aquí te va este otro para que sigas demostrando tu talento: abrimos paréntesis, equis elevado a la seis, dividido por equis elevado a la dos, cerramos paréntesis, y todo eso elevado a la tres. Cuéntame, ¿cómo simplificarías esa expresión?'
+ 'Estudiante: sería equis llevado a la doce'
+ 'Robot: ¡Así mismo es, Sarai! La tienes clarísima otra vez. Equis elevado a la doce es la respuesta correcta, aplicaste las propiedades de forma impecable. De verdad que hoy le pusiste un mundo a estos ejercicios y demostraste que dominas muy bien los exponentes y radicales.\n\nPor ahora vamos a dejar la sesión hasta aquí. Me encantó echarte una mano, ¡que te vaya de lujo y nos vemos en una próxima!'

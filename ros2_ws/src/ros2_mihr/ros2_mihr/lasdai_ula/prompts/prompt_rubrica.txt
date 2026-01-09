@@ -1,0 +1,41 @@
+<objective>
+Tu tarea es analizar el conjunto de patrones (<input>) sobre cómo los usuarios expresan satisfacción/insatisfacción en sus interacciones con un robot, y generar una rúbrica general que permita evaluar nuevas conversaciones de forma interpretable.
+</objective>
+
+<scenario>
+    <input>
+    {patterns}
+    </input>
+</scenario>
+
+<expected_solution>
+Tu respuesta debe seguir el siguiente formato JSON:
+   
+    "rubrica": {    
+      "satisfaccion": [
+        {
+          "nombre": "...",
+          "descripcion": "..."
+        },
+        ...
+      ],
+      "insatisfaccion": [
+        {
+          "nombre": "...",
+          "descripcion": "..."
+        },
+        ...
+      ],
+    }
+
+</expected_solution>
+
+<steps>
+- Analiza el conjunto de patrones (<input>)
+- Genera una lista de criterios generales y representativos (rúbrica) que se puedan aplicar para identificar satisfacción (SAT) o insatisfacción (DSAT) en conversaciones futuras.
+- Construye la rúbrica en un conjunto de ítems mutuamente excluyentes y centrados en el comportamiento o actitud del usuario.
+- La rúbrica debe tener 10 ítems para el SAT y DSAT.
+- Cada ítem debe estar redactado de forma clara, concisa y sin repetir conceptos.
+- Devuelve la lista completa en el formato indicado (<expected_solution>)
+</steps>
+

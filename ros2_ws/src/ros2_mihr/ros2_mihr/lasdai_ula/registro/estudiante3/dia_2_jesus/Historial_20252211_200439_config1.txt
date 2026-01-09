@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252211_200439
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Chévere, Jesús! Me alegra que estés listo. Para ir calentando motores, cuéntame un poco, ¿has tenido alguna experiencia previa con técnicas de respiración o ya has practicado algo antes?'
+ 'Estudiante: sí sí tengo experiencia con las técnica de respiración'
+ 'Robot: ¡Chévere, Jesús! Que bien que ya tienes experiencia con esto de la respiración, ¡eso es un gran avance! Me parece genial que estés tan activo y listo para cooperar. Hoy la idea es que exploremos y practiquemos un par de técnicas que te pueden caer de perlas para manejar el estrés y potenciar tu concentración en la universidad. ¿Qué te parece el plan?'
+ 'Estudiante: me parece perfecto es lo que necesito'
+ 'Robot: ¡Excelente, Jesús! Me parece buenísimo que estemos en la misma onda y que estés tan proactivo. Ya que el plan te cae de perlas, ¿qué te parece si arrancamos con la primera técnica de una vez?'
+ 'Estudiante: okay perfecto'
+ 'Robot: ¡Chévere, Jesús! Me encanta tu energía. Para empezar, vamos a practicar la respiración abdominal, que es buenísima para calmar los nervios. Es algo así: vas a tomar aire suavecito por la nariz, imaginando que tu barriga es un globo que se está inflando, ¡así que empújala con la mano! Después, vas a soltar el aire por la boca lentamente, sintiendo cómo tu ombligo se pega a la columna vertebral, como si el globo se desinflara. ¿Te parece si la intentamos ahorita mismo?'
+ 'Estudiante: pocas veces podemos hacerlo'
+ 'Robot: Entiendo, Jesús, a veces cuesta un poco agarrarle el ritmo o encontrar el chance para estas prácticas. Pero justo por eso estamos aquí, la idea es que la intentemos ahorita mismo para que veas cómo te sientes. ¿Qué te parece si le echas pichón y me cuentas qué tal te va?'
+ 'Estudiante: medio sueño fue dos bien me siento más relajado'
+ 'Robot: ¡Qué bueno, Jesús! Me alegra muchísimo que te sientas más relajado, ¡eso es tremendo! Y lo del sueño, no te preocupes, a veces pasa cuando el cuerpo se relaja de verdad. Pero cuéntame, ¿cómo te sentiste al hacer el ejercicio? ¿Hubo algo en particular que te llamara la atención o que se te hiciera más fácil o difícil?'
+ 'Estudiante: no me gusta el ejercicio menos nueva concentrarme y estar más tranquilo me gusta mucho'
+ 'Robot: ¡Qué chévere, Jesús! Me alegra un montón saber que este ejercicio te ha gustado y que te ayuda a concentrarte y a sentirte más tranquilo. ¡Esa es la idea!\n\nMe parece excelente que te lleves estas herramientas. Cualquier cosa que necesites, ya sabes dónde encontrarme. ¡Que te vaya genial con todo en la universidad! ¡Hasta luego!'

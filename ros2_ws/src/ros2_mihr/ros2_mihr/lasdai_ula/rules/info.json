@@ -1,0 +1,38 @@
+{
+  "node": [
+    {
+      "name": "afectivo",
+      "descripcion": "Este es el componente afectivo y se encarga de generar la emoción del robot. La emoción se genera según el perfil social y la emoción del usuario. El perfil analítico prioriza la contención y la lógica (neutral), el perfil alentador prioriza la motivación, el perfil empatico se ajusta a las emociones del usuario, y el perfil calmado prioriza la serenidad (neutral)."
+    },
+    {
+      "name": "normativo",
+      "descripcion": "Este es el componente normativo y se encarga de determinar el perfil que apdota el robot y el genero del usuario según el objetivo de interacción"
+    },
+    {
+      "name": "deliberative",
+      "descripcion": "Este es el componente deliberativo y se encarga de moderar la conversación humano-robot. Para ello se define la sugiere la siguiente acción del robot siguiendo siempre este plan: 1. Saludo: El robot inicia la interacción con un saludo; 2. Vínculo: El robot establece un vínculo a través de una pregunta implicita con el caso de estudio; 3. Objetivo: El robot explica el objetivo de la sesión según el caso de estudio; 4. Exploración: El robot realiza una actividad breve exploratoria en varias partes según el caso de estudio. Dentro de este paso puede requerir explicaciones, retroalimentacion, confirmacion de respuesta; 5. Aprendizaje: El robot realiza una actividad breves de aprendizaje que se adapta a los resultados de la exploración. Dentro de este paso puede requerir explicaciones, retroalimentacion, confirmacion de respuesta. 6. Cierre: El robot finaliza la sesión con una despedida personalizada."
+    },
+    {
+      "name": "verbal",
+      "descripcion": "Este es el componente verbal y se encarga de generar una respuesta coherente según los parámetros de entrada"
+    },
+    {
+      "name": "recognition_img",
+      "descripcion": "Este es el componente de reconocimiento de imagen y se encarga de detectar la emoción del usuario y su posición predominante, mediante la entrada de una imagen"
+    }
+  ],
+  "rules": [
+    {
+      "name": "test",
+      "descripcion": "- NO envuelvas la consulta en comillas, bloques de código, JSON, o Markdown (ej. `json`, ```cypher`).\n- Sigue esta estructura para la consulta:\n MATCH (c:Componente)-[:PRUEBA_UNITARIA]->(t:Test)\n WHERE c.name = '...'\n RETURN t"
+    },
+    {
+      "name": "contexto",
+      "descripcion": "La consulta representa un contexto de interacción (omite el usuario), por tanto extrae la información según:\n - Si el contexto de interacción está dentro de la mátematica, busca el tema y la salida son sus tópicos y ejercicios. Si no lo consigues la salida es 'no hay referencias del tema'\n - Si el contexto de interacción está dentro del manejo del estrés, busca la categoria y la salida son sus técnicas y procedimientos. Si no la consigues la salida es 'no hay referencias de técnicas'\n- Deduce de la consulta a lo que más se relaciona, no tiene que ser exacta\n - Verifica primero que la consulta sea valida antes de dar la respuesta\n - Usa como guia las siguientes estructuras:\n\n Ejemplo para matemática:\n\n OPTIONAL MATCH (t:Tema)\n WHERE toLower(t.name) CONTAINS '...'\n WITH t AS temaEncontrado\n OPTIONAL MATCH (temaEncontrado)-[:INCLUYE_TOPICO]->(topico:Topico)\n OPTIONAL MATCH (topico)-[:CONTIENE_EJERCICIO]->(ejercicio:Ejercicio)\n WITH temaEncontrado, topico, COLLECT(DISTINCT CASE WHEN ejercicio IS NOT NULL THEN {name: ejercicio.name, enunciado: ejercicio.enunciado, clasificacion: ejercicio.clasificacion, solucion: ejercicio.solucion} ELSE NULL END) AS ejercicios_en_topico\n WITH temaEncontrado, topico, [e IN ejercicios_en_topico WHERE e IS NOT NULL] AS ejercicios_limpios\n WITH temaEncontrado, COLLECT(DISTINCT CASE WHEN topico IS NOT NULL THEN {name: topico.name, ejercicios: ejercicios_limpios} ELSE NULL END) AS topicos_brutos\n WITH temaEncontrado, [t_item IN topicos_brutos WHERE t_item IS NOT NULL] AS topicos_limpios\n RETURN CASE\n WHEN temaEncontrado IS NULL THEN '{'ejercicios': 'no hay referencias del tema'}'\n ELSE {tema: temaEncontrado.name, topicos: topicos_limpios}\n END AS result\n\n Ejemplo para manejo del estrés:\n\n MATCH (c:Categoria)\n WHERE toLower(c.name) CONTAINS toLower('...')\n WITH c\n OPTIONAL MATCH (c)-[:TIENE_TECNICA]->(t:Tecnica)\n WITH COLLECT({tecnica: t.name, procedimiento: t.procedimiento}) AS techniques\n RETURN CASE\n WHEN SIZE(techniques) > 0 AND techniques[0].tecnica IS NOT NULL THEN techniques\n ELSE ['{'ejercicios': 'no hay referencias de técnicas'}']\n END AS result"
+    },
+    {
+      "name": "usuario",
+      "descripcion": "La consulta representa un contexto de interacción. Para este caso debes verificar si el usuario se encuentra\n\t- Si el usuario es encontrado y tiene una experiencia que coincide con la consulta. Entonces, la salida debe ser el nombre usuario y las caracteristicas de la ultima sesion de esa experiencia\n\t- Si el usuario es encontrado pero no existe la experiencia que coincide con la consulta. Entonces, la salida debe ser el nombre del usuario y en caracteristicas \"no hay experiencia previa\"\n\t- Si el usuario no se encuentra. Entonces, la salida debe ser el nombre del usuario y en caracteristicas \"nuevo usuario\"\n\t\t\n\tUsa la siguiente estructura como guia:\n\tOPTIONAL MATCH (u:Usuario {name: '... '})\n\tWITH u\n\tOPTIONAL MATCH (u)-[:TIENE_EXPERIENCIA]->(e:Experiencia)\n\tWHERE u IS NOT NULL AND toLower(e.name) CONTAINS '...'\n\tWITH u, e\n\tOPTIONAL MATCH (e)-[:CONTIENE_FEEDBACK]->(s:Sesion)\n\tWITH u, e, s\n\tORDER BY s.name DESC\n\tLIMIT 1\n\tRETURN CASE\n\t\tWHEN u IS NULL THEN {usuario: '...', caracteristicas: '...'}\n\t\tWHEN e IS NOT NULL THEN {\n\t\t\tusuario: u.name,\n\t\t\tcaracteristicas: COALESCE(s.caracteristicas, \"no hay sesion para esta experiencia\")\n\t\t}\n\t\tWHEN u IS NOT NULL AND e IS NULL THEN {\n\t\t\tusuario: u.name,\n\t\t\tcaracteristicas: \"no hay experiencia previa\"\n\t\t}\n\t\tELSE {usuario: 'Error', caracteristicas: 'Estado inesperado'}\n\tEND AS result\n\t"
+    }    
+  ]  
+}

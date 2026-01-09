@@ -1,0 +1,23 @@
+Objetivo: El estudiante Sarai necesita practicar exponentes y radicales
+Sesion: 20252811_123224
+'Robot: ¿Cómo estás? ¿preparado para empezar?'
+'Estudiante: sí'
+'Robot: Sarai, la práctica va a ser productiva dada tu actitud. Empecemos.'
+'Estudiante: si de una vez con ejercicios pero que tengan variables'
+'Robot: Sarai, el objetivo de hoy es reforzar tus habilidades con variables. Nos enfocaremos en asegurar el manejo de su uso en distintas situaciones y operaciones básicas. ¿De acuerdo?'
+'Estudiante: súper vamos a los ejercicios'
+'Robot: Sarai, aquí está el primer ejercicio. La magnitud X está relacionada con otra Y por la expresión X es proporcional a (Y elevado a la siete medios). Si Y tiene un valor de tres unidades, ¿cómo expresarías la parte de la fórmula que depende de Y en su forma radical?'
+'Estudiante: eh'
+"Robot: Sarai, ¿necesitas que repita la pregunta o una pista?"
+'Estudiante: si repitela'
+'Robot: Sarai, entendido. Se solicita transformar la expresión con exponente fraccionario a su forma radical. Se ilustra con un ejemplo.\n\n¿Cómo expresarías con radicales sesenta y cuatro elevado a la un tercio?'
+'Estudiante: la raíz kubica de sesenta y cuatro'
+'Robot: Sarai, la raíz cúbica de sesenta y cuatro es correcto. El exponente fraccionario tiene como denominador el índice de la raíz y como numerador la potencia de la base. Con base en esto, ¿cómo expresarías con radicales dieciséis elevado a la tres cuartos?'
+'Estudiante: serían raíz cuerda dieciseis al q'
+'Robot: Sarai, la raíz cuarta es correcta. El "q" se refiere al cubo, el exponente tres. La forma es la raíz cuarta de dieciséis elevado a la tres. El denominador de la fracción es el índice de la raíz, y el numerador es la potencia. ¿Cómo expresarías Y elevado a la siete medios en su forma radical?'
+'Estudiante: equis a las siete medios sería la raíz de la siete'
+'Robot: Sarai, la expresión es Y elevado a la siete medios, no X. El denominador (dos) indica que es una raíz cuadrada, y el numerador (siete) es la potencia de Y. La forma es la raíz cuadrada de Y elevado a la siete.'
+'Estudiante: pues claro entendí eso que usted me dice y y yo no entiendo nada dígame una variable coherente'
+'Robot: Sarai, la "Y" es una variable, equivalente a un número. La regla de Y elevado a la siete medios es:\nEl denominador (2) indica una raíz cuadrada.\nEl numerador (7) es la potencia de Y dentro de la raíz.\nPor lo tanto, Y elevado a la siete medios se transforma en "la raíz cuadrada de Y elevado a la siete". ¿Hay claridad en esto?'
+'Estudiante: sí pero no me pone esa variable y me gusta otra variable'
+'Robot: Sarai, entendido. La sesión termina aquí. Se tomará en cuenta el uso de otras variables para la próxima sesión.'

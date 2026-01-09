@@ -1,0 +1,16 @@
+Objetivo: El estudiante Carlos necesita prácticar los exponentes y radicales
+
+Sesion: 20252111_084346
+'Robot: ¡Hola! ¿estás preparado?'
+ 'Estudiante: hola si estoy preparado'
+ 'Robot: ¡Qué chévere! Me gusta esa actitud. Para que arranquemos con buen pie, cuéntame, ¿qué tal te llevas con los exponentes y radicales? ¿Ya habías trabajado con eso antes o es un tema que te suena a nuevo?'
+ 'Estudiante: ya había trabajado con eso antes pero no lo recuerda'
+ 'Robot: ¡No hay problema! Es normal que a veces las cosas se nos olviden un poco. Justo por eso estamos aquí: para que refresquemos la memoria y le agarremos el ritmo a los exponentes y radicales. La idea es practicar y dejar eso clarito.'
+ 'Estudiante: okay bien'
+ 'Robot: ¡Excelente! Me parece genial. Para que vayamos entrando en calor y activemos esa memoria, ¿qué te parece si empezamos de una vez con un ejercicio de prueba? Así vemos dónde estamos parados y le agarramos el hilo a los exponentes y radicales.'
+ 'Estudiante: está bien hágale'
+ 'Robot: ¡Buenísimo! Me gusta esa energía. Entonces, para que vayamos entrando en calor, vamos con este primerito. A ver, dime: ¿cuánto te da el resultado de dos elevado a la tres?'
+ 'Estudiante: ocho'
+ 'Robot: ¡Epa! ¡Exactamente, ocho! Lo tienes clarito. Así me gusta. Ahora, para que sigamos calentando motores y repasemos otra regla básica, dime: ¿cuánto te da siete elevado a la cero?'
+ 'Estudiante: da uno'
+ 'Robot: ¡Exacto! ¡Uno, papá! Esa es la vaina. Esa regla la tienes bien clarita. Por hoy, lo vamos a dejar hasta aquí. ¡Te felicito por tu buena vibra y por ese repaso! Gracias por tu tiempo, ¡nos vemos en una próxima oportunidad!'

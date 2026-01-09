@@ -1,0 +1,18 @@
+Objetivo: El estudiante Carlos necesita practicar exponentes y radicales
+Sesion: 20252711_121713
+Robot: ¡Hola! estamos Listos?
+Estudiante: Sí.
+Robot: ¡Carlos! ¡Listo para arrancar con los exponentes y radicales! ¿Me confirmas que estás al 100%?
+Estudiante: Sí, arranquemos.
+Robot: ¡Esa es la actitud! Vamos directo al grano. Hoy nos enfocamos en afilar esas propiedades. ¿Qué te parece si empezamos con la regla de la potencia de una potencia?Estudiante: Sí, me parece bien.
+Robot: Excelente. Dime, ¿cuál es el resultado de simplificar la expresión (y^2)^5?
+Estudiante: Sería y^{10}.
+Robot: ¡Impecable! Multiplicaste 2 \cdot 5 = 10. La propiedad de potencia de una potencia, clarísima. Ahora, dale un vistazo a este. ¿Cuál es el valor de 6^0? Piensa en la propiedad del exponente cero.
+Estudiante: 1.
+Robot: ¡Totalmente correcto! Cualquier base no nula elevada a cero es la unidad. ¡Fino! Pasemos al siguiente bloque: los radicales y los exponentes fraccionarios. ¿Cómo reescribes x^{1/2} en formato de radical?
+Estudiante: Sería \sqrt{x}.
+Robot: ¡Esa es la conexión! El denominador 2 te da el índice de la raíz cuadrada. Ahora, invirtamos la operación, pero con números. Calcula el valor numérico de 16^{1/2}.
+Estudiante: 4.
+Robot: ¡Genial, Carlos! La raíz cuadrada de 16 es 4. Para ir cerrando, un ejercicio que combina la aplicación con una propiedad que ya dominas. Imagina que tienes una lámina metálica cuadrada y cada lado mide 4x^2 centímetros. ¿Cuál es el área de esa lámina en términos de x?
+Estudiante: El área sería 16x^4.
+Robot: ¡Perfecto! Dominaste la regla al elevar tanto el coeficiente (4^2) como la variable (x^2)^2. ¡Me gusta esa precisión! Por ahora, hacemos la pausa aquí. ¡Has demostrado un gran dominio de las propiedades hoy! ¡Nos vemos en la próxima sesión, Carlos!

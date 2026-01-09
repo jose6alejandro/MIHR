@@ -1,0 +1,17 @@
+Objetivo: La estudiante Sarai necesita prácticar los exponentes y radicales
+Sesion: 20252111_143613
+'Robot: ¡Bienvenido! ¿arrancamos?'
+ 'Estudiante: arranquemos'
+ 'Robot: ¡Chévere, Sarai! Ya que vamos a arrancar de una, cuéntame un poquito: ¿qué tal te llevas con los exponentes y los radicales? ¿Ya habías visto algo de eso antes?'
+ 'Estudiante: si hablemos de los radicales'
+ 'Robot: ¡Excelente, Sarai! Me parece chévere que quieras arrancar con los radicales. Fíjate, la idea de hoy es justo esa, que le metamos el diente a la práctica de los exponentes y los radicales. Como ya los conoces, podemos ir directo a lo que más te confunda de los radicales para pulir esos detalles, ¿te parece bien?'
+ 'Estudiante: sí trabajemos con números grandes'
+ 'Robot: ¡Dale, Sarai! Me parece excelente que quieras meterle el diente a esos números grandes. Fíjate, aquí tienes un ejercicio para que arranques con esa práctica: ¿Cuál sería el resultado de la raíz cuadrada de cien multiplicada por la raíz cuadrada de ciento veintiuno?'
+ 'Estudiante: podrías repetirme otra vez'
+ 'Robot: ¡Claro que sí, Sarai! No hay rollo con eso. Te repito el ejercicio para que lo tengas clarito:\n\n¿Cuál sería el resultado de la raíz cuadrada de cien multiplicada por la raíz cuadrada de ciento veintiuno?'
+ 'Estudiante: ciento diez'
+ 'Robot: ¡Chévere, Sarai! Esa es la respuesta correcta, ni más ni menos. ¡Estás con todo! Para que sigas afilando esa mente, ¿cuál es el resultado de la raíz cuadrada de doscientos veinticinco multiplicada por la raíz cuadrada de cuatro?'
+ 'Estudiante: podrías repetir otra vez'
+ 'Robot: ¡Claro que sí, Sarai! No hay rollo con eso. Te repito el ejercicio para que lo tengas clarito:\n\n¿Cuál sería el resultado de la raíz cuadrada de doscientos veinticinco multiplicada por la raíz cuadrada de cuatro?'
+ 'Estudiante: cincuenta'
+ 'Robot: ¡Chévere, Sarai! De verdad que le metiste un mundo de ganas a esta práctica de los radicales y eso se nota. Sigue así con esa energía para que sigas dominando los exponentes y los radicales. ¡Un abrazo y mucho éxito en todo! Nos vemos.'

@@ -1,0 +1,13 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252811_181114
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: con y cuba vamos a empezar'
+ 'Robot: ¡Chévere, Carlos! ¡Vamos a darle con todo, pues! Cuéntame, ¿has tenido alguna experiencia previa con técnicas de respiración para relajarte o concentrarte?'
+ 'Estudiante: se haya tenido varias experiencias previas contentas respiración'
+ 'Robot: ¡Excelente, Carlos! Qué bueno que ya le tienes el pulso a esto de la respiración. Eso nos ayuda un montón. Hoy la idea es que exploremos y practiquemos unas técnicas que te sirvan para potenciar tu concentración y esa relajación necesaria cuando estás estudiando o bajo presión, ¿te parece?'
+ 'Estudiante: me parece totalmente adecuado y correcto'
+ 'Robot: ¡Épale, Carlos, perfecto! Ya que estamos en sintonía, vamos a probar una técnica que es súper efectiva para relajarse y concentrarse, la llamamos "Respiración Consciente 4-7-8".\n\nFíjate cómo va: primero, inhala por la nariz, suavemente, contando hasta cuatro. Después, mantén el aire adentro, aguantando por siete segundos. Y luego, exhala lentamente por la boca, como haciendo un sonidito de zumbido, durante ocho segundos. Repite este ciclo unas tres o cuatro veces.\n\n¿Qué te parece si la intentamos ahorita y me dices cómo te sientes?'
+ 'Estudiante: okay ya terminé se siente relajante en efectivamente y el plus de cerrar los ojos las más efectiva'
+ 'Robot: ¡Épale, Carlos, buenísimo! Así mismo es, me encanta que te haya servido y que cerrar los ojos le haya sumado ese toque especial. Es increíble cómo algo tan sencillo puede hacernos sentir tan bien, ¿verdad? Ahora, cuéntame, ¿qué crees que es lo que hace que esta técnica sea tan efectiva para lograr esa concentración y relajación que buscamos?'
+ 'Estudiante: me parece que es la respiración y la concentración ella lo que lo hace efectiva'
+ 'Robot: ¡Exacto, Carlos! Esa combinación es clave. Me alegra un montón que hayas conectado con esta técnica y que te sea útil. Por ahora vamos a dejarlo hasta aquí, pero ya sabes que cuentas con esta herramienta para esos momentos en los que necesites un empujón con la concentración o la relajación. ¡Éxito en todo, pues! ¡Nos vemos!'

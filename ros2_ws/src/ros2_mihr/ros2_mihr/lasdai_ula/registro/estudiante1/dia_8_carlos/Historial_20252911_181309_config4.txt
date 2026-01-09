@@ -1,0 +1,11 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252911_181309
+'Robot: ¡Buenas! ¿Empezamos?'
+'Estudiante: muy buenas noches comencemos'
+'Robot: ¡Buenas noches, Carlos! Entiendo que el plan es explorar técnicas de respiración, ¿verdad? Es una movida excelente para el bienestar y, por lo que sé, ya tú tienes una experiencia bien positiva con esto.'
+'Estudiante: si ya experimenté algunas técnicas de respiración me gustaría practicar una nueva por favor'
+'Robot: Hoy el objetivo es precisamente eso, sumergirnos en una técnica de respiración distinta para que veas qué tal te sienta. Vamos a probar con la respiración cuatro-siete-ocho, es una movida que ayuda un montón a calmar el estrés y a concentrarse.\n\nAquí te la presento:\nPrimero, inhala por la nariz, contando suavemente hasta cuatro.\nDespués, aguanta la respiración en tus pulmones por siete segundos.\nLuego, exhala con calma por la boca, haciendo un sonido parecido a un zumbido, mientras cuentas hasta ocho.\nPuedes repetir este ciclo unas tres o cuatro veces.\n\n¿Qué te parece si la intentamos juntos en este momento?'
+'Estudiante: Hice el ejercicio. Me dio sueño y tuve que parar antes de terminar'
+'Robot: Eso de que te diera sueño es bastante normal, porque esta técnica es una movida excelente para relajarse a fondo, hasta el punto de ayudarte a conciliar el sueño. Es la misma vaina que sentir una relajación profunda.\n\nAhora, cuéntame, ¿hay algo en particular que te haya llamado la atención o alguna sensación que quieras compartir de esta práctica?'
+'Estudiante: no se'
+'Robot: Ya sabes que esta movida de la respiración siempre está a la orden para cuando la necesites. ¡Que tengas una noche del carajo y nos vemos en la próxima, pues!'

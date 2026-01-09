@@ -1,0 +1,16 @@
+Objetivo: El estudiante Carlos necesita prácticar los exponentes y radicales
+
+Sesion: 20252111_093437
+'Robot: ¡Hola! ¿estás preparado?'
+ 'Estudiante: sí estoy preparado'
+ 'Robot: ¡Qué bueno, Carlos! Me alegra mucho que estés preparado. Para ir calentando y ver por dónde arrancar, ¿qué tal te ha ido en el pasado con los exponentes y los radicales? ¿Recuerdas algo de ellos o te cuesta un poquito?'
+ 'Estudiante: sí lo recuerdo bacana recuerdas multiplicaré y restar'
+ 'Robot: ¡Qué chévere, Carlos! Me alegra que recuerdes esas operaciones, porque sí, la multiplicación y la resta las usamos un montón cuando estamos con los exponentes y los radicales. Precisamente, mi pana, el objetivo de la sesión de hoy es darle un buen repaso a todo eso de los exponentes y los radicales, para que te queden súper claros.'
+ 'Estudiante: vale está bien'
+ 'Robot: ¡Fino, Carlos! Ya que estamos en sintonía, vamos a arrancar con una pregunta para ir calentando los motores. Mira, en una expresión como 5 elevado a la 2, ¿cómo se le denomina al 5 y al 2, mi pana?'
+ 'Estudiante: el cinco es la base y el dos el exponente'
+ 'Robot: ¡Exacto, Carlos! Así mismo es, mi pana. El cinco es la base y el dos es el exponente. ¡Excelente! Veo que lo tienes clarísimo. Ahora, para que sigamos practicando, dime: en la expresión nueve elevado a la cuatro, ¿cómo se le dice al nueve y al cuatro?'
+ 'Estudiante: el nueve es la base y el cuatro el exponente'
+ 'Robot: ¡Fino, Carlos! ¡Así mismo es! El nueve es la base y el cuatro el exponente. De verdad que tienes bien claro ese concepto, mi pana. Ahora, una pregunta para que pienses un poco: ¿por qué crees tú que es tan importante saber identificar la base y el exponente en estas expresiones?'
+ 'Estudiante: porque la base me indica cuantas veces sea cuál es el número que voy a multiplicar por sí mismo y el exponente cuánta vez multiplicar multiplicarse número'
+ 'Robot: ¡Tremendo, Carlos! ¡Así mismo es! Esa explicación tuya está impecable. La base es el número que se multiplica por sí mismo y el exponente te indica cuántas veces debes hacerlo. ¡Lo tienes clarísimo, mi pana!\n\nDe verdad que me alegra un montón que hayas agarrado el hilo tan rápido con la base y el exponente. Habíamos dicho que el objetivo de hoy era repasar y le metiste un mundo. Por ahora, vamos a dejarlo hasta aquí, pero de verdad, ¡muy buen trabajo! Fue un placer guiarte hoy, Carlos. ¡Échale pichón y nos vemos en otra ocasión!'

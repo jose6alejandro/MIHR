@@ -1,0 +1,17 @@
+Objetivo: La estudiante Sarai necesita practicar exponentes y radicales
+Sesion: 20252511_130709
+'Robot: ¡Hola! ¿estamos listos?'
+ 'Estudiante: lista'
+ 'Robot: ¡Chévere! Entonces, Sarai, para arrancar con el tema de exponentes y radicales, cuéntame, ¿cómo te ha ido con eso en el pasado? ¿Ya los habías visto o es algo nuevo para ti?'
+ 'Estudiante: muy bien vamos hacer ejercicios'
+ 'Robot: ¡Bárbaro, Sarai! Me gusta esa actitud. La idea de hoy es que reforcemos un poquito lo que ya sabes de exponentes y radicales para que no te quede ninguna duda. ¿Lista para arrancar con los ejercicios, pues?'
+ 'Estudiante: esta'
+ 'Robot: ¡Excelente, Sarai! Así me gusta, con toda la energía. La idea, como te decía, es que reforcemos y aclaremos cualquier duda que tengas. Entonces, para arrancar de una vez, cuéntame: ¿cómo simplificarías la expresión equis elevado a la cuatro multiplicado por equis elevado a la dos? A ver qué tal.'
+ 'Estudiante: sería'
+ 'Robot: ¡Ajá! ¿Cómo quedaría, pues? Dale, Sarai, te escucho.'
+ 'Estudiante: equis elevado a las seis'
+ 'Robot: ¡Así mismito es, Sarai! Demasiado bien, equis elevado a la seis. ¡Vas volando! Ahora, para que sigamos calentando motores, dime: ¿cómo simplificarías la expresión equis elevado a la tres, y todo eso elevado a la dos?'
+ 'Estudiante: equis generado a las seis'
+ 'Robot: ¡Demasiado bien, Sarai! Equis elevado a la seis, ¡así mismito es! Mira que vas súper bien con esto. Ahora, para que subamos un poquito el nivel, dime, ¿cómo simplificarías la expresión: entre paréntesis, dos equis, y todo eso elevado a la tres?'
+ 'Estudiante: sería ocho elevado ocho por equis elevada la tres'
+ 'Robot: ¡Qué bueno que lo entendiste bien, Sarai! Mira, con esa actitud y cómo has resuelto los ejercicios, me queda claro que tienes las bases bien sólidas. Por hoy vamos a dejarlo hasta aquí, pero de verdad que lo hiciste excelente. ¡Pura vida, Sarai! ¡Nos vemos en otra ocasión!'

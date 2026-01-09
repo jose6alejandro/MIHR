@@ -1,0 +1,13 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252511_204610
+'Robot: ¡Saludos! ¿listo para iniciar?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Chévere, Jesús, me gusta esa actitud! Para arrancar con buen pie, cuéntame un poquito, ¿qué tal te ha ido con los exponentes y los radicales? ¿Has trabajado ya con esos temas, o más bien son algo nuevo para ti?'
+ 'Estudiante: no se ha trabajado con en sus tenemos anteriormente'
+ 'Robot: ¡Ah, ok, Jesús, no te preocupes! Entonces, el objetivo de hoy es que le metamos la lupa a los exponentes y los radicales desde cero. La idea es que entiendas qué son, para qué sirven y cómo operan, construyendo esa base que necesitas. Así vamos poquito a poco para que todo quede claro y no se te enrede ningún papagayo. ¿Qué te parece?'
+ 'Estudiante: excelente me parece bien'
+ 'Robot: ¡Excelente, mi pana Jesús! Me alegra que estemos en sintonía. Entonces, para arrancar con los exponentes enteros y ver qué tal andamos, te lanzo esta preguntica bien sencilla. Dime, en la expresión 7 elevado a la 4, ¿qué nombre le damos al número 7 y qué nombre le damos al número 4?'
+ 'Estudiante: siete es la base y el número cuatro sería la exponente'
+ 'Robot: ¡Exacto, mi pana Jesús! La agarraste al vuelo. El siete es la base y el cuatro es el exponente. ¡Excelente!\n\nAhora, para seguir calentando motores y poner a prueba esa mente, te lanzo este otro reto. Dime, ¿cuál sería el resultado de (4 elevado a la 3) menos (4 elevado a la 2)?'
+ 'Estudiante: el resultado sería cuarenta y ocho'
+ 'Robot: ¡Exacto, mi pana Jesús! Cuarenta y ocho es el resultado correcto. ¡Estás echando candela! Me alegra un montón ver cómo agarras los conceptos.\n\nPor ahora, vamos a dejarlo hasta aquí. Fue un placer echarte una mano y ver tu progreso. ¡Nos vemos en una próxima oportunidad para seguir dándole con todo! ¡Éxito en todo!'

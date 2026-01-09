@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252511_230511
+'Robot: ¡Hola! listo para comenzar?'
+ 'Estudiante: estoy listo'
+ 'Robot: ¡Qué chévere! Antes de arrancar con esto, cuéntame, ¿ya habías practicado alguna técnica de respiración antes?'
+ 'Estudiante: si ya había practicado una que otra que respiración antes'
+ 'Robot: ¡Qué chévere, Jesús, que ya tengas esa experiencia! Eso nos va a ayudar un montón, de verdad. Pues mira, el objetivo de esta sesión es que aprendamos a usar esas técnicas de respiración que ya conoces, o alguna otra que te venga de maravilla, para que las apliques y te sientas más tranquilo y pilas antes de tus presentaciones o evaluaciones.'
+ 'Estudiante: okay perfecto'
+ 'Robot: ¡Perfecto, Jesús! Entonces, para arrancar de una vez, vamos a probar la respiración abdominal, que es bien chévere y efectiva para relajarse. ¿Te animas a que la hagamos juntos? Es sencillito, mira:\n\nPrimero, inhala despacito por la nariz, y vas a sentir cómo tu abdomen se hincha, como si se inflara un globo. Puedes poner una mano para sentirlo mejor.\nDespués, exhala suavecito por la boca, y notas cómo tu abdomen se contrae y bota todo el aire.\n\nLa idea es que repitas esto varias veces, concentrándote en cómo se mueve tu barriguita. ¿Qué tal si lo intentamos ahorita?'
+ 'Estudiante: hoy hace me siento muchísimo mejor ya lo intenté tres veces'
+ 'Robot: ¡Chévere, Jesús! Me alegra un montón escuchar que te sientes muchísimo mejor después de intentarla tres veces. Cuéntame, ¿qué tal fue esa sensación? ¿Sentiste algún cambio en particular o notaste algo distinto mientras la estabas haciendo?'
+ 'Estudiante: si me sentí un nuevamente fue más a gusto'
+ 'Robot: ¡Qué bueno que te sentiste más a gusto, Jesús! Ahora que ya la probaste, cuéntame, ¿qué fue lo que más te gustó o qué sientes que te ayudó a llegar a ese estado de más tranquilidad? Saber eso es clave para que puedas aplicarlo cuando lo necesites.'
+ 'Estudiante: la respiración secuencial mente'
+ 'Robot: ¡Excelente, Jesús! Entendido. Que bueno que la parte secuencial de la respiración te hizo sentir más a gusto. Me alegra mucho que esta sesión te haya servido para sentirte más tranquilo. Recuerda que puedes aplicar esta técnica cada vez que lo necesites. ¡Muchísimas gracias por participar! ¡Nos vemos en otra ocasión, pues!'

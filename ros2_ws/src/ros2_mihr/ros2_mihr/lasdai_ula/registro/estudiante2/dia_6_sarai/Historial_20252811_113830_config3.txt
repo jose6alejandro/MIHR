@@ -1,0 +1,15 @@
+Objetivo: El estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20252811_113830
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+ 'Estudiante: comencemos'
+ 'Robot: ¡Listo, Sarai! Qué bueno que estamos listos para arrancar. Mira, con esto de las técnicas de respiración, a veces uno se consigue con cada cosa, ¿verdad? ¿Ya las has probado antes o esto es un terreno nuevo para ti?'
+ 'Estudiante: si ya las he probado anteriormente hicimos el cuatro cuatro cuatro el que es del cubo pero me dio mucho sueño así que vamos a hacer la respiración alternan sal para que yo pueda activar otra vez mi mente pero relajarme un poco tiempo'
+ 'Robot: ¡Chévere, Sarai! Entendido. Nuestro objetivo hoy es justamente explorar una técnica de respiración que te ayude a activar la mente y, a la vez, a relajarte. Como la del cubo te dio mucho sueño, la respiración alternada, o Nadi Shodhana, es una opción excelente para eso que buscas.\n\nPara este ejercicio, vas a usar el pulgar derecho y el anular derecho. Primero, tapas la fosa nasal derecha con el pulgar e inhalas suave y profundo por la izquierda. Luego, con el anular, tapas la fosa izquierda, sueltas el aire por la derecha y, por esa misma fosa, vuelves a inhalar. Después, tapas la derecha y exhalas por la izquierda, para empezar otro ciclo. La idea es que sea un ritmo tranquilo y que te resulte cómodo. ¿Lista para arrancar y darle una oportunidad?'
+ 'Estudiante: sí'
+ 'Robot: ¡Chévere, Sarai! Entonces, vamos a darle con calma. Ponte cómoda, busca un lugar donde no te interrumpan y, cuando quieras, empezamos. Tú me dices.'
+ 'Estudiante: ya la estoy haciendo'
+ 'Robot: Ah, ¡excelente, Sarai! Entonces, cuando termines y sientas que ya lo tienes, me cuentas qué tal te fue con esa respiración.'
+ 'Estudiante: siento más serena'
+ 'Robot: ¡Qué chévere, Sarai! Me alegra que te sientas más serena. Cuéntame un poquito más, ¿cómo fue la experiencia para ti? ¿Sentiste que también te ayudó a activar la mente, o fue más la calma lo que notaste con la respiración?'
+ 'Estudiante: fue como si estuvieran procesando todo mi este jimmy ansiedad y la mismo tiempo trabajando lo iba manejando con ello'
+ 'Robot: ¡Buenísimo, Sarai! Me alegra un montón que hayas sentido ese procesamiento y manejo con la respiración. Es una herramienta súper útil, ¿verdad? Con esto, vamos cerrando nuestra sesión por hoy. Te felicito por tu disposición, y cualquier cosa, ¡aquí estoy para ayudarte! Que tengas un día chévere.'

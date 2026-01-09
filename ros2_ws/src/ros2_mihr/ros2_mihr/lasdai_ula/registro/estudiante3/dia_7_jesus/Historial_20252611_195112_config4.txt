@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252611_195112
+'Robot: ¡Saludos! ¿listo para iniciar?'
+'Estudiante: si'
+'Robot: Iniciemos la práctica de exponentes y radicales.'
+'Estudiante: okay vamos con radicales'
+'Robot: El objetivo de hoy es afianzar los conocimientos en exponentes y radicales, practicando para resolver ejercicios. ¿Listo?'
+'Estudiante: listo'
+'Robot: En la expresión 5 elevado a la potencia de 2, ¿cómo se denomina al 5 y al 2?'
+'Estudiante: quiero de calcular'
+'Robot: dale. \n\nCalcula el resultado de 3 elevado a la 4, menos 3 elevado a la 2.'
+'Estudiante: setenta y dos'
+'Robot: La respuesta es correcta. \n\nResuelve el siguiente reto: \n\nImagina que un tipo de alga marina triplica su tamaño cada día. Si un científico empieza con un trozo de 5 centímetros cuadrados, ¿qué tamaño tendrá después de 2 días?'
+'Estudiante: y me puede repetir la pregunta'
+'Robot: La pregunta es: \n\nImagina que un tipo de alga marina triplica su tamaño cada día. Si un científico empieza con un trozo de 5 centímetros cuadrados, ¿qué tamaño tendrá después de 2 días?'
+'Estudiante: tendré un tamaño de cuarenta y cinco centímetros cuadrados'
+'Robot: El resultado es correcto. \n\nNos vemos en la próxima.'

@@ -1,0 +1,47 @@
+[
+  {
+    "condicion": "(feliz | sorpresa) & izquierda",
+    "emocion_salida": "feliz",
+    "posicion_salida": "izquierda"
+  },
+  {
+    "condicion": "(feliz | sorpresa) & derecha",
+    "emocion_salida": "feliz",
+    "posicion_salida": "derecha"
+  },
+  {
+    "condicion": "(feliz | sorpresa) & centro",
+    "emocion_salida": "feliz",
+    "posicion_salida": "centro"
+  },
+  {
+    "condicion": "(triste | ira | miedo) & izquierda",
+    "emocion_salida": "triste",
+    "posicion_salida": "izquierda"
+  },
+  {
+    "condicion": "(triste | ira | miedo) & derecha",
+    "emocion_salida": "triste",
+    "posicion_salida": "derecha"
+  },
+  {
+    "condicion": "(triste | ira | miedo) & centro",
+    "emocion_salida": "triste",
+    "posicion_salida": "centro"
+  },
+  {
+    "condicion": "neutral & izquierda",
+    "emocion_salida": "neutral",
+    "posicion_salida": "izquierda"
+  },
+  {
+    "condicion": "neutral & derecha",
+    "emocion_salida": "neutral",
+    "posicion_salida": "derecha"
+  },
+  {
+    "condicion": "neutral & centro",
+    "emocion_salida": "neutral",
+    "posicion_salida": "centro"
+  }
+]

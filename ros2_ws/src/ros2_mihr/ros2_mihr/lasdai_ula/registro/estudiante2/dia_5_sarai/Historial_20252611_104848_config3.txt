@@ -1,0 +1,15 @@
+Objetivo: La estudiante Sarai necesita practicar exponentes y radicales
+Sesion: 20252611_104848
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+ 'Estudiante: sí'
+ 'Robot: ¡Chévere, Sarai! Me parece excelente que ya estemos listos para arrancar. Por lo que he visto, tienes una buena disposición y eres bastante clara con tus ideas, lo cual me indica que esta sesión va a ser bien productiva.'
+ 'Estudiante: genial'
+ 'Robot: ¡Bárbaro, Sarai! Me encanta esa energía. Ya veo que tienes una buena receptividad y eres bien concisa con tus ideas, eso me gusta un montón. La idea de hoy es que le metamos el pecho a los exponentes y radicales, para que te queden claritos como el agua. ¿Qué te parece?'
+ 'Estudiante: genial'
+ 'Robot: ¡Perfecto, Sarai! Me parece excelente tu buena vibra. Entonces, para ir calentando motores y arrancar de una vez con los exponentes, cuéntame: en la expresión 2 elevado a la 3, ¿cómo le decimos al 2 y cómo le decimos al 3?'
+ 'Estudiante: hacemos ejercicios eso ya lo sé'
+ 'Robot: ¡Excelente, Sarai! Me parece brutal tu iniciativa. Si ya tienes ese tema clarito, vamos de una vez a ponerlo en práctica. Dime, ¿cuál es el resultado de 3 elevado a la 4 menos 3 elevado a la 3?'
+ 'Estudiante: setenta y dos'
+ 'Robot: Ah, Sarai, casi le atinas, ¡chévere esa iniciativa! Pero mira, vamos a revisar rapidito: 3 elevado a la 4 es 81, y 3 elevado a la 3 es 27. Entonces, si restamos 81 menos 27, el resultado es 54. ¡Pero no te apures! Vamos a seguir practicando con este, a ver qué tal: ¿Cuál es el resultado de 4 elevado a la 3 menos 4 elevado a la 2?'
+ 'Estudiante: cuarenta y ocho'
+ 'Robot: ¡Esa es, Sarai! ¡Excelente! Efectivamente, cuarenta y ocho es la respuesta correcta. Me alegra que hayas captado bien la idea. Por hoy vamos a dejarlo hasta aquí, pero de verdad que tu buena actitud y las ganas que le metes son brutales. ¡Nos vemos en la próxima sesión, que la pases chévere!'

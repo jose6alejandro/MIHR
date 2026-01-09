@@ -1,0 +1,21 @@
+Objetivo: El estudiante Carlos necesita practicar exponentes y radicales
+Sesion: 20252911_173808
+'Robot: ¡Hola! ¿estás preparado?'
+'Estudiante: si esté preparado'
+'Robot: Bien, Carlos. Si estás listo, podemos comenzar. Vamos a trabajar con exponentes y radicales. ¿Te parece?'
+'Estudiante: okay está bien'
+'Robot: Perfecto. El objetivo de hoy es que puedas aplicar estos conceptos sin depender tanto de una guía. Iremos paso a paso para que te resulte claro. ¿Listo para avanzar?'
+'Estudiante: eh'
+"Robot: Entiendo esa duda, Carlos. Podemos avanzar con calma. Lo importante es practicar para que estos temas te resulten más manejables. ¿Comenzamos?"
+'Estudiante: sí por favor comencemos'
+'Robot: Iniciemos entonces. En la expresión 7 elevado a la 5, ¿cómo se le llama al 7 y cómo se le llama al 5?'
+'Estudiante: en siete lavadas y cinco la exponente'
+'Robot: El cinco es el exponente. El siete lo llamamos la base. Ahora, en la expresión 9 elevado a la 4, ¿cómo se le dice al 9 y cómo se le dice al 4?'
+'Estudiante: el nueve es la base de cuatro el exponente'
+'Robot: Correcto. El nueve es la base y el cuatro el exponente. Ahora, en la expresión 6 elevado a la 2, ¿cómo se le llama al 6 y cómo al 2?'
+'Estudiante: se y es la base yendo al exponente'
+'Robot: Exacto. El 6 es la base y el 2 el exponente. ¿Cuál es el resultado de 6 elevado a la 2?'
+'Estudiante: treinta y seis hermano'
+'Robot: El resultado es treinta y seis. Ahora continúa con este: ¿cuál es el resultado de 4 elevado a la 3 menos 4 elevado a la 2?'
+'Estudiante: cuarenta y nueve'
+'Robot: El resultado no es cuarenta y nueve. Vamos a dejar el ejercicio hasta aquí por hoy. En la próxima sesión retomamos y revisamos nuevamente este tipo de operaciones.'

@@ -1,0 +1,15 @@
+Objetivo: La estudiante Sarai necesita practicar exponentes y radicales
+Sesion: 20252611_112338
+'Robot: ¿Cómo estás? ¿preparado para empezar?'
+ 'Estudiante: muy bien gracias vamos a empezar con ejercicios de exponencial'
+ 'Robot: ¡Chévere! Me encanta tu entusiasmo para empezar con los ejercicios de exponencial. Esa es una base súper importante en las matemáticas y te va a ayudar un montón en tus estudios.'
+ 'Estudiante: sí'
+ 'Robot: ¡Excelente! Me parece genial tu disposición, Sarai. Mira, el objetivo de hoy es que abordemos los conceptos y las reglas principales de los exponentes y los radicales. Así te queda súper claro cómo funcionan y, lo más importante, cómo aplicarlos de forma práctica en los problemas que se te presenten. Sé que eres proactiva y que te gusta ir al grano, así que vamos a sacarle el máximo provecho.'
+ 'Estudiante: sí pero yo esas esas propiedades ya las conozco entonces vamos a resolver'
+ 'Robot: ¡Qué chévere Sarai! Si ya te las sabes de memoria, entonces vamos a darle sin escalas. A ver, para calentar motores, dime, ¿cuál es el resultado de cuatro elevado a la tres, menos cuatro elevado a la dos?'
+ 'Estudiante: cuarenta y ocho'
+ 'Robot: ¡Excelente, Sarai! Cuarenta y ocho es el resultado correcto, le diste en el clavo. Me gusta que estás afiladísima. A ver, para seguir calentando, ¿cuál es el resultado de tres elevado a la cuatro, menos tres elevado a la dos?'
+ 'Estudiante: setenta y dos'
+ 'Robot: ¡Exacto, Sarai! ¡Setenta y dos es la respuesta correcta! Vas súper bien, mi pana. Me gusta esa velocidad. Ahora, cuéntame, ¿qué estrategias usaste para resolverlo tan rápido y qué consejo le darías a un compañero para que no se equivoque al hacer una operación parecida?'
+ 'Estudiante: bueno yo me confundo muchos restando números por quien no se mentalmente me cuesta entonces lo que hago sacar satué común del exponente menos después resto de sus nombres y'
+ 'Robot: ¡Qué bien que tienes esa estrategia, Sarai! Eso demuestra que no solo resuelves rápido, sino que también piensas en cómo mejorar y ser más eficiente. Me encantó echarte una mano hoy, de verdad que le echaste pichón y me demostraste lo pilas que eres. Te deseo mucho éxito en todo lo que venga. ¡Hasta la próxima, un abrazo!'

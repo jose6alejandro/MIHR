@@ -1,0 +1,26 @@
+[
+    {
+        "condicion": "feliz & (n_3 | n_6)",
+        "salida": "mov_positivo"
+    },
+    {
+        "condicion": "feliz",
+        "salida": "mov_positivo2"
+    },
+    {
+        "condicion": "triste & (n_3 | n_6)",
+        "salida": "mov_negativo"
+    },
+    {
+        "condicion": "triste",
+        "salida": "mov_negativo2"
+    },
+    {
+        "condicion": "neutral & n_3",
+        "salida": "mov_neutral"
+    },
+    {
+        "condicion": "neutral",
+        "salida": "mov_neutral2"
+    }
+]

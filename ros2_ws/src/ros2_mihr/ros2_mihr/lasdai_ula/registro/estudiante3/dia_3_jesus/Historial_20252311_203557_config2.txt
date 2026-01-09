@@ -1,0 +1,13 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252311_203557
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: claro que sí estoy listo'
+ 'Robot: ¡Chévere, Jesús! Me parece excelente que ya estés listo. Para empezar, ¿te gustaría contarme un poquito de tu experiencia con los exponentes y radicales? ¿Hay algo que te haya parecido más desafiante o, por el contrario, que te llame más la atención de esos temas?'
+ 'Estudiante: buen ejemplo con los radicales en cómo puedo integrarlos a un uso cotidiano'
+ 'Robot: ¡Qué bueno que lo veas así, Jesús! Esa es la idea, que la matemática tenga sentido y la puedas aplicar. Para esta sesión, la meta es que repasemos y practiquemos un ratico con los exponentes y los radicales, para que te sientas más seguro con esos temas. Entonces, si te parece, arrancamos con la fase de Exploración, ¿estás listo?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Excelente, Jesús! Me gusta esa energía. Entonces, para arrancar esta fase de Exploración y calentar los motores, vamos con este ejercicio sencillito: ¿Cuál es el valor de tres elevado a la cuarta potencia?'
+ 'Estudiante: bueno el resultado es ochenta y uno pero eso ya lo habías dicho anteriormente'
+ 'Robot: ¡Exacto, Jesús! Ochenta y uno es la respuesta correcta para esa potencia. ¡Excelente! Veo que tienes bien claro cómo se elevan los números. Ahora, para seguir calentando un poco más, ¿me podrías decir cuál es el resultado de cuatro elevado al cubo?'
+ 'Estudiante: de cuatro elevado al cubo'
+ 'Robot: ¡Exacto, Jesús! Cuatro elevado al cubo. ¿Cuánto te da ese cálculo? ¡Échale cabeza con confianza!'

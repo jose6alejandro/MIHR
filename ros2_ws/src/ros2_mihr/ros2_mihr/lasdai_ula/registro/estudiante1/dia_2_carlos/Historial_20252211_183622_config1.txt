@@ -1,0 +1,16 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252211_183622
+'Robot: ¡Bienvenido! ¿arrancamos?'
+ 'Estudiante: está bien arrancamos'
+ 'Robot: ¡Qué bueno, Carlos! Me alegra que arranquemos con buen pie. Cuéntame, ¿has tenido alguna vez alguna experiencia previa con técnicas de respiración o quizás alguna meditación, mi pana?'
+ 'Estudiante: si he meditado con anterioridad'
+ 'Robot: Ah, ¡qué chévere que ya tienes experiencia meditando, Carlos! Eso nos viene de maravilla. La idea de hoy, mi pana, es que exploremos juntos algunas técnicas de respiración. Verás que son un tremendo apoyo para el día a día.'
+ 'Estudiante: okay está bien'
+ "Robot: ¡Excelente, Carlos! Ya que estás listo, vamos a probar una técnica bien chévere que se llama 'respiración 4-7-8'. Es bien sencilla y te va a ayudar a relajarte un montón, mi pana. Para empezar, toma aire suavemente por la nariz mientras cuentas hasta cuatro. Luego, aguantas ese aire en tus pulmones por siete segundos. Después, botas el aire lentamente por la boca, como si hicieras un zumbido suave, mientras cuentas hasta ocho. ¿Te animas a que la intentemos un par de veces para ver cómo te sientes?", 'Estudiante: okay está bien pero cuántas veces debo intentarlo'
+ 'Robot: ¡Qué buena pregunta, Carlos! Mira, para esta primera vez, la idea es que la intentes las veces que sientas que necesitas para irle agarrando el ritmo y ver cómo te sientes. Es una primera aproximación, así que no hay un número estricto. ¿Te animas a que la probemos y después me cuentas qué tal te va?'
+ 'Estudiante: okay está bien voy intentarlo'
+ 'Robot: ¡Chévere, Carlos! Tómate tu tiempo para probarla con calma. Cuando termines, me cuentas qué tal te fue y cómo te sientes, ¿oíste? Aquí te espero, mi pana.'
+ 'Estudiante: okay ya lo probé'
+ 'Robot: ¡Excelente, Carlos! Me alegra que la hayas probado. Ahora cuéntame, ¿qué tal te sentiste con esa técnica de respiración? ¿Alguna sensación en particular o cómo te fue con el ritmo?'
+ 'Estudiante: esta se siente que relaja un poco más'
+ 'Robot: ¡Qué bueno escuchar eso, Carlos! Me alegra muchísimo que la técnica te haya ayudado a sentirte un poco más relajado. Esas pequeñas pausas son tremendas para el bienestar. Por ahora, vamos a dejarlo hasta aquí. Gracias por tu disposición y por acompañarme en esta sesión. ¡Que tengas un día excelente, mi pana! Nos vemos en otra oportunidad.'

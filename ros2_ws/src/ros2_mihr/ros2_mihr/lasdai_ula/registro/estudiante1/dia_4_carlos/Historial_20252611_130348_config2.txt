@@ -1,0 +1,13 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252611_130348
+'Robot: ¡Bienvenido! ¿arrancamos?'
+ 'Estudiante: está bien comencemos'
+ 'Robot: ¡Qué chévere! Me alegra que estés listo para empezar. Cuéntame, ¿ya has tenido alguna experiencia previa con técnicas de respiración?'
+ 'Estudiante: sí un poquito con algunas técnicas básicas'
+ 'Robot: ¡Qué nota que ya tienes una base! Eso es excelente. Mira, la idea de esta sesión es precisamente que practiquemos unas técnicas de respiración para que tengas herramientas eficaces para manejar el estrés o la ansiedad, especialmente en esos momentos de estudio o exámenes, ¿cómo lo ves?'
+ 'Estudiante: me parece bien'
+ 'Robot: ¡Excelente! Qué bueno que estamos en sintonía. Para arrancar, te propongo una técnica sencilla pero muy efectiva que es la respiración diafragmática. La idea es que respires usando el abdomen y no el pecho, ¿sabes?\n\nPara que lo probemos, siéntate o acuéstate en una posición cómoda. Pon una mano sobre tu pecho y la otra sobre tu barriga. Cuando inspires, hazlo suavemente por la nariz, sintiendo cómo se infla tu barriga, como un globo. La mano del pecho debe moverse poquito. Luego, exhala lentamente por la boca, dejando que tu barriga se desinfle por completo.\n\n¿Te animas a hacerlo unas cinco veces con calma? Después me cuentas cómo te fue.'
+ 'Estudiante: te voy a hacerle te cuenta'
+ 'Robot: ¡Excelente! Estaré por aquí pendiente para que me cuentes cómo te fue.'
+ 'Estudiante: porque hay termine'
+ 'Robot: ¡Excelente! Qué bueno que terminaste. Me alegra mucho que le hayas puesto todo el empeño a este ejercicio. Espero de verdad que estas técnicas te sirvan un montón para esos momentos de estudio y para mantener la calma. ¡Éxito con todo, y estamos en contacto!'

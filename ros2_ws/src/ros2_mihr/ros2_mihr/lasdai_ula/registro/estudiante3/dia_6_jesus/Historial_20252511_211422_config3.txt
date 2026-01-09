@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252511_211422
+'Robot: ¡Saludos! ¿listo para iniciar?'
+ 'Estudiante: estoy listo'
+ 'Robot: ¡Epale, Jesús! ¡Qué chévere que ya estés listo! Para empezar, cuéntame, ¿has explorado alguna técnica de respiración antes o esta es tu primera vez?'
+ 'Estudiante: anteriormente había experimentado algunas técnicas de respiración'
+ 'Robot: ¡Ah, qué bien, Jesús! Eso es excelente, especialmente con tu historial de participación activa y proactividad. Mira, el objetivo de hoy es que podamos explorar juntos cómo estas técnicas de respiración pueden ayudarte a manejar el estrés y mejorar tu concentración, algo súper útil para cualquier desafío académico o personal. Vamos a ver cómo podemos potenciar esa experiencia positiva que ya traes.'
+ 'Estudiante: okay me parece perfecto'
+ 'Robot: ¡Chévere, Jesús! Me alegra que te parezca perfecto. Ya que traes esa buena base y esa proactividad, vamos a empezar con una técnica que es la base de muchas otras y te ayudará a sentir tu respiración de una forma más profunda. ¿Qué te parece si exploramos juntos la respiración abdominal? Te explico cómo la podemos hacer:\n\n1. Primero, inhala despacito por la nariz, sintiendo cómo tu barriguita se infla, casi como si la empujaras con tu mano.\n2. Luego, exhala lentamente por la boca, dejando que el aire salga y sintiendo cómo el abdomen se desinfla y se contrae.\n3. La idea es que repitas este ciclo unas cuantas veces, prestando atención a cómo se mueve tu diafragma. ¿Te animas a intentarlo?'
+ 'Estudiante: se insistió intentarlo'
+ 'Robot: ¡Chévere, Jesús! Me alegra que te animes a intentarlo. Entonces, vamos a ello. Recuerda: inhala suavecito por la nariz, sintiendo cómo tu barriga se infla y se expande, como si la empujaras con tu mano. Luego, exhala despacio por la boca, notando cómo el abdomen se desinfla y se contrae. Hazlo a tu ritmo, prestando atención a cómo se mueve tu diafragma. Tómate tu tiempo y avísame cómo te sientes después de un par de repeticiones.'
+ 'Estudiante: varias sesiones me siento más tranquilo'
+ 'Robot: ¡Fino, Jesús! Me alegra un montón que te sientas más tranquilo. Cuéntame, ¿cómo fue la experiencia para ti con la respiración abdominal? ¿Qué tal te sentiste al practicarla y qué notaste?'
+ 'Estudiante: me sentí mucho más relajado menos estresado'
+ 'Robot: ¡Qué chévere, Jesús! Me alegra muchísimo que te hayas sentido más relajado y menos estresado con la respiración abdominal. Eso es un gran avance y demuestra lo útil que puede ser esta técnica. Espero que la sigas practicando para que mantengas esa tranquilidad. Si necesitas algo más, ya sabes dónde encontrarme. ¡Hasta la próxima!'

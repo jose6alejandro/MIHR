@@ -1,0 +1,174 @@
+{
+    "aprendizaje de matematicas": {
+        "satisfaccion": [
+            {
+                "nombre": "Alineación con la Necesidad",
+                "descripcion": "El usuario confirma que el objetivo o plan propuesto por el robot aborda directamente su duda o problema inicial."
+            },
+            {
+                "nombre": "Aprobación Explícita del Método",
+                "descripcion": "El usuario expresa verbalmente su acuerdo, conformidad o agrado con la metodología o el plan de la sesión."
+            },
+            {
+                "nombre": "Participación Comprometida",
+                "descripcion": "El usuario se involucra activamente, responde a las preguntas y verbaliza su razonamiento, demostrando interés en el proceso."
+            },
+            {
+                "nombre": "Evidencia de Comprensión",
+                "descripcion": "El usuario resuelve problemas correctamente y/o explica con sus propias palabras los conceptos, demostrando que ha asimilado el conocimiento."
+            },
+            {
+                "nombre": "Expresiones de Gratitud",
+                "descripcion": "El usuario agradece explícitamente la ayuda, el tiempo o la explicación proporcionada por el robot."
+            },
+            {
+                "nombre": "Actitud Positiva General",
+                "descripcion": "El usuario mantiene un tono amable, paciente y colaborativo durante la mayor parte de la interacción."
+            },
+            {
+                "nombre": "Confianza en la Guía",
+                "descripcion": "El usuario sigue las indicaciones y sugerencias del robot de manera fluida, mostrando confianza en su capacidad para ayudar."
+            },
+            {
+                "nombre": "Confirmación de Utilidad",
+                "descripcion": "El usuario afirma directamente que la sesión, la explicación o la interacción en general le ha resultado útil o clarificadora."
+            },
+            {
+                "nombre": "Resolución Autónoma",
+                "descripcion": "El usuario aplica con éxito y de forma independiente los conocimientos adquiridos para resolver un problema que antes le causaba dificultad."
+            },
+            {
+                "nombre": "Elogio Directo al Robot",
+                "descripcion": "El usuario elogia de forma explícita la capacidad del robot, la efectividad de la sesión o la calidad de la ayuda recibida."
+            }
+        ],
+        "insatisfaccion": [
+            {
+                "nombre": "Feedback Incompleto sobre Errores",
+                "descripcion": "El usuario se queja de que el robot señala un error pero no explica su causa, naturaleza o cómo corregirlo."
+            },
+            {
+                "nombre": "Evasión de Preguntas",
+                "descripcion": "El usuario manifiesta frustración porque el robot ignora sus solicitudes directas de aclaración y avanza con nuevas tareas."
+            },
+            {
+                "nombre": "Rechazo de la Metodología",
+                "descripcion": "El usuario considera que el método de enseñanza del robot (ej. avanzar sin consolidar, solo evaluar) no es efectivo para su aprendizaje."
+            },
+            {
+                "nombre": "Manifestación Explícita de Frustración",
+                "descripcion": "El usuario verbaliza su enojo, impaciencia o descontento con el desarrollo de la interacción."
+            },
+            {
+                "nombre": "Declaración de Inutilidad",
+                "descripcion": "El usuario afirma explícitamente que la sesión es una pérdida de tiempo, no le sirve o no le está ayudando."
+            },
+            {
+                "nombre": "Expresión de Confusión Creciente",
+                "descripcion": "El usuario manifiesta no entender, estar más confundido que antes o haber perdido la confianza en su propio conocimiento."
+            },
+            {
+                "nombre": "Ritmo de Aprendizaje Inadecuado",
+                "descripcion": "El usuario se queja de que la dificultad aumenta demasiado rápido o se introducen conceptos nuevos sin haber comprendido los anteriores."
+            },
+            {
+                "nombre": "Negativa a Continuar",
+                "descripcion": "El usuario interrumpe el flujo de la sesión y se niega a proceder con una nueva tarea hasta que su duda actual sea resuelta."
+            },
+            {
+                "nombre": "Tono Sarcástico o Desconfiado",
+                "descripcion": "El usuario emplea un tono irónico, cortante o dubitativo que denota su descontento y falta de confianza en el proceso."
+            },
+            {
+                "nombre": "Percepción de Abandono",
+                "descripcion": "El usuario considera que la sesión termina de forma abrupta o inútil, dejándolo con el problema sin resolver."
+            }
+        ]
+    },
+    "manejo del estres": {
+        "satisfaccion": [
+            {
+                "nombre": "Expresión de Gratitud",
+                "descripcion": "El usuario agradece explícitamente al robot por la ayuda, la guía o la sesión en general."
+            },
+            {
+                "nombre": "Reporte de Mejora o Efecto Positivo",
+                "descripcion": "El usuario comunica una mejora en su estado emocional o físico (ej. se siente más calmado, relajado) como resultado de la interacción."
+            },
+            {
+                "nombre": "Percepción de Utilidad y Valor",
+                "descripcion": "El usuario afirma que la conversación fue útil, valiosa o expresa su intención de aplicar lo aprendido en el futuro."
+            },
+            {
+                "nombre": "Participación Activa y Cooperación",
+                "descripcion": "El usuario sigue las instrucciones, participa voluntariamente en los ejercicios y colabora con el flujo de la conversación propuesto por el robot."
+            },
+            {
+                "nombre": "Actitud Receptiva e Interés",
+                "descripcion": "El usuario muestra curiosidad, acuerdo o una disposición positiva hacia la actividad o técnica que el robot le propone."
+            },
+            {
+                "nombre": "Reflexión o Descubrimiento Personal",
+                "descripcion": "El usuario comparte una reflexión profunda o un descubrimiento sobre sí mismo, sus sensaciones o su estado mental a raíz del ejercicio."
+            },
+            {
+                "nombre": "Ajuste a las Necesidades Comunicadas",
+                "descripcion": "El usuario confirma explícitamente que la actividad propuesta por el robot se alinea con sus necesidades o preferencias."
+            },
+            {
+                "nombre": "Comprensión de la Técnica",
+                "descripcion": "El usuario indica que ha comprendido o asimilado correctamente la técnica o el concepto enseñado por el robot."
+            },
+            {
+                "nombre": "Expresión Directa de Agrado",
+                "descripcion": "El usuario manifiesta de forma explícita que ha disfrutado o le ha gustado la experiencia o la sesión."
+            },
+            {
+                "nombre": "Cierre positivo",
+                "descripcion": "El usuario finaliza la conversación expresando una experiencia general satisfactoria."
+            }
+        ],
+        "insatisfaccion": [
+            {
+                "nombre": "Percepción de ser Ignorado",
+                "descripcion": "El usuario siente o expresa que sus preguntas directas, dudas o solicitudes de ayuda no son respondidas por el robot."
+            },
+            {
+                "nombre": "Falta de Adaptabilidad y Rigidez",
+                "descripcion": "El usuario percibe al robot como inflexible, al insistir en un guion predefinido sin ajustarse a sus necesidades, limitaciones o peticiones."
+            },
+            {
+                "nombre": "Instrucciones Confusas o Ambiguas",
+                "descripcion": "El usuario manifiesta no entender las instrucciones, las considera incompletas o solicita aclaraciones que no son atendidas."
+            },
+            {
+                "nombre": "Resultado Negativo o Contraproducente",
+                "descripcion": "El usuario reporta un empeoramiento de su estado, como aumento de la tensión, ansiedad, frustración o malestar físico."
+            },
+            {
+                "nombre": "Expresión Directa de Frustración",
+                "descripcion": "El usuario utiliza palabras que denotan explícitamente frustración, molestia o enfado con la interacción o el robot."
+            },
+            {
+                "nombre": "Percepción de Inutilidad o Fracaso",
+                "descripcion": "El usuario declara que la sesión no le ha servido, que ha sido una pérdida de tiempo o que la técnica propuesta ha fracasado para él."
+            },
+            {
+                "nombre": "Inseguridad sobre la Ejecución",
+                "descripcion": "El usuario expresa duda sobre si está realizando correctamente el ejercicio debido a la falta de una guía clara y adaptativa."
+            },
+            {
+                "nombre": "Sentimiento de Invalidación",
+                "descripcion": "El usuario se siente invalidado cuando el robot ignora su reporte de una experiencia negativa y procede como si el resultado hubiera sido positivo."
+            },
+            {
+                "nombre": "Necesidad Principal No Atendida",
+                "descripcion": "El usuario finaliza la sesión sintiendo que el problema o necesidad clave que comunicó al principio no fue abordado ni resuelto."
+            },
+            {
+                "nombre": "Confirmación de Preocupaciones Ignoradas",
+                "descripcion": "El usuario experimenta un resultado negativo que había anticipado y comunicado previamente, pero cuya advertencia fue desestimada por el robot."
+            }
+        ]
+    }
+}

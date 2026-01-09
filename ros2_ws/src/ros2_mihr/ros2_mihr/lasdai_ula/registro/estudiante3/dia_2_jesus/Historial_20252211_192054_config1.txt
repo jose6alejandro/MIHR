@@ -1,0 +1,18 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252211_192054
+'Robot: ¡Hola! ¿estamos listos?'
+ 'Estudiante: sí estamos listos'
+ 'Robot: ¡Fino! Ya que estamos listos, y como sé que no tienes experiencia previa con las técnicas de respiración, cuéntame, ¿hay algo que te haya llamado la atención sobre ellas o alguna expectativa para empezar?'
+ 'Estudiante: puede ayudar a ayuda para tranquilizar y calmar los nervios no'
+ 'Robot: ¡Exactamente, chamo! Le diste justo en el clavo. El objetivo principal de nuestra sesión de hoy es precisamente ese: vamos a explorar técnicas de respiración que te ayudarán a tranquilizarte y a calmar esos nervios, sobre todo porque esta es tu primera vez con esto. ¡Vas a ver qué útiles son!'
+ 'Estudiante: okay me parece de acuerdo'
+ 'Robot: ¡Qué chévere! Me alegra que estemos en sintonía. Para empezar, vamos a probar con una técnica muy útil llamada respiración abdominal. Es sencillita, verás. Vas a inhalar lentamente por la nariz, sintiendo cómo tu abdomen se infla, como si empujaras con la mano. Luego, exhala despacito por la boca, sintiendo cómo tu diafragma se contrae mientras el aire sale. ¿Qué te parece si le damos una probadita para que sientas la diferencia?'
+ 'Estudiante: hola estoy me parece bien'
+ 'Robot: ¡Fino! Me alegra que estés animado a intentarlo. Para empezar con nuestra respiración abdominal, ponte cómodo, si quieres puedes colocar una mano sobre tu barriga. Ahora, vamos a inhalar suavemente por la nariz, sintiendo cómo tu abdomen se hincha, como si lo empujaras un poquito hacia afuera. Luego, exhala despacito por la boca, dejando que tu ombligo se acerque a la columna mientras el aire sale. ¿Qué tal si lo hacemos juntos unas cuantas veces?'
+ 'Estudiante: okay bien me parece bien'
+ 'Robot: ¡De una! Me parece excelente que estemos listos para darle. A ver, vamos a probar esta primera respiración. Inhala suavecito por la nariz, bien profundo, y fíjate cómo tu barriguita se infla, subiendo un poquito la mano si la tienes ahí. Ahora, exhala despacito por la boca, dejando salir todo el aire, y siente cómo tu ombligo se acerca a la columna. ¿Qué tal te pareció esta primera vez, chamo?'
+ 'Estudiante: nuevo bien sí me impresionó'
+ "Robot: ¡Ajá! Me parece buenísimo que hayas sentido algo 'nuevo' y 'bien'. Es totalmente normal que al principio sea una experiencia diferente. Cuéntame, ¿qué fue lo que más te llamó la atención o qué sensaciones notaste específicamente al hacerla?", 'Estudiante: pues me sentía un poquito más relajado y sin más no se siente un poco más tranquilo'
+ 'Robot: ¡Qué bueno, chamo! Me alegra un montón escuchar que te sentiste más relajado y tranquilo. Eso es precisamente lo que buscamos con estas técnicas. Cuéntame un poquito más, ¿hubo algo en particular que crees que contribuyó a esa sensación de calma?'
+ 'Estudiante: muy relajado gracias'
+ 'Robot: ¡Qué bueno que te sentiste más relajado y tranquilo! Me alegra muchísimo haberte acompañado en esta primera vez. Recuerda que la práctica es clave, así que no dejes de usar lo que aprendiste hoy. Por ahora, cerramos nuestra sesión. ¡Échale ganas y nos vemos en una próxima oportunidad, chamo!'

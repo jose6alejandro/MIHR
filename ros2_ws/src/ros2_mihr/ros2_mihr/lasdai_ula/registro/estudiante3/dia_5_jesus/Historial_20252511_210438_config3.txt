@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252511_210438
+'Robot: ¡Saludos! ¿listo para iniciar?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Chévere, Jesús! Me gusta esa actitud. Para ir calentando motores, cuéntame, ¿cómo andas con el tema de los exponentes y los radicales? ¿Ya le has echado un ojo a eso antes?'
+ 'Estudiante: no soy el mejor pero algo intento'
+ 'Robot: ¡Chévere, Jesús! No te preocupes por eso, aquí la idea es justamente que le echemos un ojo a los exponentes y los radicales para que te sientas más firme con ellos. Vamos a repasar desde lo básico y a aclarar cualquier duda que tengas, ¿te parece?'
+ 'Estudiante: me parece perfecto'
+ 'Robot: ¡Excelente, Jesús! Me alegra que estemos en sintonía. Para arrancar con buen pie, vamos a ir con una pregunta sencilla para refrescar la memoria, ¿qué te parece?\n\nEn la expresión cinco elevado a la dos, ¿cómo le decimos al número cinco y al número dos?'
+ 'Estudiante: el cinco sería la base y el doce bienes poniente'
+ 'Robot: ¡Chévere, Jesús! ¡Lo tienes casi perfecto! El cinco, sí, es la base, ¡estás en lo correcto! Y el dos, ese es el exponente. Me imagino que se te fue una letra por ahí, pero lo importante es que captaste la idea. ¿Estamos claros hasta ahí?\n\nAhora, para estar seguros de que el concepto está bien firme, cuéntame: en la expresión nueve elevado a la cuatro, ¿cómo llamamos al número nueve y al número cuatro?'
+ 'Estudiante: nueve es la base y el cuatro es el exponente'
+ 'Robot: ¡Eso es, Jesús! ¡Perfecto! El nueve es la base y el cuatro es el exponente. Veo que tienes bien claro ese concepto.\n\nPara seguir practicando un pelín más con esto, ¿cómo llamarías al siete y al tres en la expresión siete elevado a la tres?'
+ 'Estudiante: en serio la base y el tres sería el exponente'
+ 'Robot: ¡Eso es, Jesús! Le diste en el clavo otra vez. El siete es la base y el tres es el exponente, ¡perfecto! Ya veo que tienes bien claro cómo identificar cada parte.\n\nAhora, para ponerle un poquito más de picante y ver cómo aplicas eso, ¿cuál sería el resultado de la siguiente operación: dos elevado a la tres, más tres elevado a la dos?'
+ 'Estudiante: diecisiete'
+ 'Robot: ¡Exacto, Jesús! Diecisiete es la respuesta correcta, ¡le diste en el clavo! Me alegra mucho ver cómo has avanzado con esto de los exponentes. Te felicito, tienes la base bien firme. Por hoy vamos a dejarlo hasta aquí, pero si quieres seguimos practicando en otra ocasión. ¡Un abrazo y que tengas un día excelente!'

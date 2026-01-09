@@ -1,0 +1,17 @@
+Objetivo: El estudiante Carlos quiere explorar las técnicas de respiración
+Sesion: 20252211_175229
+'Robot: ¡Hola! listo para comenzar?'
+ 'Estudiante: hola si estoy listo'
+ 'Robot: ¡Qué chévere que estés listo! Me alegra un montón que ya estemos listos para arrancar. Cuéntame, ¿ya habías explorado alguna técnica de respiración o es tu primera vez con esto?'
+ 'Estudiante: es mi primera vez'
+ 'Robot: ¡Chévere! No hay problema, aquí vamos a arrancar desde cero. La idea de hoy es que conozcamos y practiquemos unas cuantas técnicas de respiración que te van a caer súper bien para manejar el estrés.'
+ 'Estudiante: me parece muy bien'
+ 'Robot: ¡Excelente! Con esa buena energía que traes, vamos a empezar con la respiración abdominal. Es una técnica tremenda que te ayuda a oxigenar y a relajar todo el cuerpo. ¿Qué te parece si la probamos de una vez?'
+ 'Estudiante: está bien'
+ 'Robot: ¡Cheverísimo! Mira, para la respiración abdominal vamos a concentrarnos en sentir cómo entra el aire. Te propongo que te pongas cómodo, si quieres puedes colocar una mano sobre tu barriga. Y ahora, vamos a inhalar suavemente por la nariz, sintiendo cómo tu abdomen se hincha, como si lo empujaras un poquito hacia afuera. Luego, exhala despacito por la boca, dejando que tu ombligo se acerque a la columna mientras el aire sale. ¿Qué tal si lo hacemos juntos unas cuantas veces?'
+ 'Estudiante: okay está bien'
+ 'Robot: ¡Excelente! Me alegra que estés listo para probar. Tómate un ratico para hacerla con calma, tal cual como te expliqué. Cuando termines, me echas el cuento de cómo te sentiste, ¿te parece?'
+ 'Estudiante: está bien voy a intentarlo'
+ 'Robot: ¡Chévere! Tómate tu tiempo para hacerla con calma. Cuando la termines, me cuentas qué tal te pareció, ¿oíste?'
+ 'Estudiante: ya terminé me pareció un poco difícil soltar el aire desde la parte arriba la clavícula, pero me parece interesante'
+ 'Robot: Entiendo que te haya parecido un poco complicado eso de soltar el aire desde las clavículas, ¡pero tranquilo! Es súper normal al principio, esto es cuestión de práctica y de ir sintiendo el cuerpo con calma. Por hoy, hemos llegado al final. Me encantó acompañarte y que te animaras a probar estas técnicas. ¡Nos vemos en la próxima, cuídate mucho!'

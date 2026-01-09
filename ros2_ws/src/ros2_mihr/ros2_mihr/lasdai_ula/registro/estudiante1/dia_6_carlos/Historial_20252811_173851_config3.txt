@@ -1,0 +1,15 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252811_173851
+'Robot: ¡Hola! ¿estás preparado?'
+ 'Estudiante: sí estoy preparado'
+ 'Robot: Qué fino, Carlos. Me alegra escuchar que ya estás listo. Por lo que recuerdo, a ti te va súper bien con esto de las técnicas de respiración, ¿verdad? Siempre te han resultado bien relajantes.'
+ 'Estudiante: efectivamente y ya hepática a la técnica respiración de fanática la y la de cuatro siete ocho que a de técnica respiración ahí'
+ 'Robot: ¡Qué nota que ya tengas esas técnicas tan pulidas, Carlos! Eso es buenísimo y me da mucha alegría saber que ya tienes esa base sólida. Justo la idea de esta sesión es que sigamos explorando esas técnicas de respiración que tanto te han funcionado, como la 4-7-8 que mencionaste, y veamos cómo podemos potenciar ese bienestar que te brindan, ¿te parece?'
+ 'Estudiante: okay vamos al grano'
+ 'Robot: ¡Chévere, Carlos! Me encanta esa actitud. Ya que estás en modo "vamos al grano", vamos a darle un chance a una técnica que es bien completa y que te va a gustar un montón, se llama la respiración diafragmática o completa. Es así de sencillo: tomas aire suave por la nariz, sintiendo cómo se infla primero tu barriga, luego la zona de tus costillas y finalmente el pecho, como si estuvieras llenando un envase de agua de abajo hacia arriba. Después, exhalas de forma lenta por la boca o la nariz, vaciando de arriba hacia abajo. ¿Qué te parece si la probamos un ratico y me cuentas cómo te sientes?'
+ 'Estudiante: okay lista o aprobar y te aviso cómo me siento'
+ 'Robot: ¡Qué chévere, Carlos! Me parece excelente. Entonces, tómate tu momento para probarla con calma, y cuando estés listo, me cuentas cómo te sentiste, ¿te parece?'
+ 'Estudiante: aquella termine la técnica relajante sobre todo cuando cierras los ojos y te logras concentra más en la respiración'
+ 'Robot: ¡Qué bien, Carlos! Me encanta escuchar que te resultó relajante. Eso de cerrar los ojos y enfocarse en la respiración hace una gran diferencia, ¿verdad? Cuéntame, ¿qué fue lo que más te gustó o lo que sentiste distinto al practicar esta técnica?'
+ 'Estudiante: la concentración en la respiración fue lo que más me gusta'
+ 'Robot: ¡Qué chévere, Carlos! Me alegra muchísimo que te hayas llevado esa sensación de relajación y que la concentración te haya gustado tanto. Sigue practicando esas técnicas que te hacen sentir tan bien. Cuídate mucho y que tengas un excelente día, ¡nos vemos en otra oportunidad!'

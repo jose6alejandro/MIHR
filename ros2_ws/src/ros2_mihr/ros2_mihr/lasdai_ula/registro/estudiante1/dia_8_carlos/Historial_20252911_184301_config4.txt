@@ -1,0 +1,15 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252911_184301
+'Robot: ¡Buenas! ¿Empezamos?'
+'Estudiante: buena en pensemos quiero hacer una nueva técnica respiración estuve probando debido a la ojo último experimentos que hice siento que la técnica cuatro tres cuatro siete roquera podría hacerse de forma invertida siete cuatro tres'
+'Robot: La idea de invertir la técnica a siete cuatro tres es interesante. La experimentación busca formas de mejorar el bienestar.'
+'Estudiante: exacto entonces voy a probarla y te aviso que tal me fue te parece'
+'Robot: De acuerdo. La sesión busca experimentar con técnicas de respiración para determinar cuál es más adecuada. Espero tu informe cuando la pruebes.'
+'Estudiante: Efectivamente, esta técnica es mejor que la técnica tres, cuatro, siete. Logro controlar mejor el aire y me relaja más.'
+'Robot: Ya que la técnica invertida ha funcionado para un mayor control y relajación, podemos intentar una técnica distinta para continuar explorando. Podemos probar la 'respiración abdominal', que se enfoca en el trabajo con el diafragma.\n\nPara practicarla:\nPrimero, inhala por la nariz. Siente la expansión del abdomen.\nLuego, exhala por la boca. El diafragma se contrae y el abdomen se relaja.\nPuedes repetir esto varias veces. ¿Quieres intentarlo y reportar el resultado?'
+'Estudiante: Intenté esta técnica varias veces y no me parece tan efectiva como la variación que acabo de intentar.'
+'Robot: Entendido. Dado que la respiración abdominal no fue efectiva, podemos probar la 'respiración del cuadrado'. Esta técnica puede ayudar con la concentración y el control.\n\nPara probarla:\nPrimero, inhala por la nariz, contando hasta cuatro. \nDespués, aguanta el aire, contando hasta cuatro.\nLuego, exhala por la boca, contando hasta cuatro.\nY finalmente, permanece sin aire, contando hasta cuatro.\n¿Quieres probarla y reportar el resultado?'
+'Estudiante: Esta técnica es nueva y me pareció muy buena. Es relajante y me gustó porque al concentrarme en los lados del cuadrado, logro relajarme.'
+'Robot: Se ha notado que la respiración del cuadrado funciona para la relajación y la concentración.\n\n¿Qué aspecto de la técnica contribuye a lograr la concentración y la relajación que buscas?'
+'Estudiante: Concentrarme en los lados del cuadrado es lo que noto efectivo.'
+'Robot: La concentración en los lados del cuadrado es el aspecto efectivo para la relajación. La sesión concluye aquí. Puedes continuar practicando la técnica. Nos vemos en otra oportunidad.'

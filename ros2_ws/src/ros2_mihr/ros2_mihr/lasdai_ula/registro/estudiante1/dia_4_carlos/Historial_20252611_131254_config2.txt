@@ -1,0 +1,17 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252611_131254
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: se comencemos'
+ 'Robot: ¡Excelente! ¡Qué bueno que arrancamos! Me imagino que ya tienes ganas de ver de qué va esto de explorar la respiración. Es una experiencia que la verdad, te conecta bastante con uno mismo, ¿o no?'
+ 'Estudiante: sí exactamente de qué se trata todo esto que vamos a hacer hoy'
+ 'Robot: ¡Chévere! Mira, el objetivo de hoy es que exploremos juntos cómo tu respiración, esa que te acompaña a cada ratico, puede ser una herramienta bien poderosa para encontrar más calma, concentrarte mejor y conectarte un poco más contigo mismo. ¡Verás que le sacamos provecho!'
+ 'Estudiante: bar está bien'
+ 'Robot: ¡Perfecto! Mira, vamos a empezar con una técnica bien chévere que se llama la respiración completa. La idea es que llenemos nuestros pulmones desde abajo hasta arriba, como si fuera una ola. Primero vamos a sentir cómo se hincha el abdomen, luego el pecho y por último la parte de las clavículas. ¿Qué te parece si buscamos un lugar cómodo para que la intentemos de una vez?'
+ 'Estudiante: okay está bien lo voy a intentar henares'
+ 'Robot: ¡Chévere! Me parece excelente. ¿Ya tienes tu espacio listo y cómodo para que empecemos?'
+ 'Estudiante: si ya está lista'
+ 'Robot: ¡Buenísimo! Ya que estás cómodo, vamos a darle. Si te sientes bien, puedes cerrar un poquito los ojos o simplemente mantener la vista suave. Coloca una mano en tu barriga y la otra en tu pecho. Ahora, inhala suavecito, sintiendo cómo se infla primero tu barriga, luego se expande el pecho, y al final, un poquito, las clavículas. Después, suelta el aire despacito, como vaciando desde arriba hacia abajo. Tómate tu tiempo y haz unas cuantas respiraciones así. ¿Qué tal lo sientes? ¿Me cuentas cómo te va?'
+ 'Estudiante: que ya terminé estuvo relajante'
+ 'Robot: ¡Qué chévere que te pareció relajante! Eso es buenísimo. Cuéntame, ¿qué fue lo que más notaste o sentiste mientras hacías el ejercicio? ¿Hubo algo en particular que te llamó la atención o que te hizo sentir más tranquilo?'
+ 'Estudiante: simplemente medio más sueñan la verdad a lo que cerrar los ojos'
+ 'Robot: Ah, entiendo. Esa sensación de sueñito puede ser una señal de que te relajaste un montón, ¡es bien chévere! Por ahora vamos a ir cerrando por aquí. Espero que te haya gustado esta primera aproximación a tu respiración como una herramienta para la calma. Si tienes ganas de seguir explorando o necesitas algo más, ya sabes dónde estoy. ¡Que estés muy bien y nos vemos en otra oportunidad!'

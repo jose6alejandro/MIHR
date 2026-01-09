@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252611_203641
+'Robot: ¡Hola! listo para comenzar?'
+'Estudiante: sí estoy listo'
+'Robot: Iniciemos la sesión.'
+'Estudiante: okay muchas gracias'
+'Robot: Revisaremos un caso de estudio. Analizaremos los puntos clave y propondremos soluciones.'
+'Estudiante: me parece bien'
+'Robot: Para centrar la mente, haremos la respiración abdominal. Inhala por la nariz, sintiendo cómo el abdomen se expande. Luego, al exhalar por la boca, siente cómo el diafragma se contrae. ¿Te animas a probarlo y me cuentas qué tal te va?'
+'Estudiante: venimos a probarlo'
+'Robot: Para que lo hagamos bien: inhala por la nariz, sintiendo cómo la barriga se expande. Luego, bota el aire despacio por la boca, sintiendo cómo el abdomen se desinfla poco a poco. ¿Qué te parece si lo intentas un par de veces y me dices qué tal te sientes?'
+'Estudiante: okay de puedo seguir intentándolo'
+'Robot: Después de unas cuantas respiraciones, ¿cómo te sientes? ¿Qué tal la experiencia?'
+'Estudiante: si me siento mucho más tranquilo y todo para técnica'
+'Robot: Te sientes más tranquilo con la técnica. Ahora que estamos con la mente enfocada, ¿qué te parece si revisamos el caso de estudio?'
+'Estudiante: okay'
+'Robot: Bueno, por ahora finalizamos la sesión. Nos vemos en la próxima.'

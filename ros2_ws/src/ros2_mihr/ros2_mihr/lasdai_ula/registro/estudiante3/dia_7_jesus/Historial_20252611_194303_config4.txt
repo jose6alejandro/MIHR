@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252611_194303
+'Robot: ¡Buenas! ¿empezamos?'
+'Estudiante: sí estoy listo'
+'Robot: Listo para iniciar con exponentes y radicales. Son conceptos fundamentales. ¿Listo para la primera pregunta?'
+'Estudiante: sí'
+'Robot: El plan de hoy es practicar exponentes y radicales. Comencemos con la primera pregunta.'
+'Estudiante: perfecto'
+'Robot: En la expresión 5 elevado a la 2, ¿cómo se denomina al 5 y al 2?'
+'Estudiante: dame otro de calcular'
+'Robot: El 5 es la base y el 2 es el exponente. \n\nCalcula el resultado de 4 elevado a la 3 menos 4 elevado a la 2.'
+'Estudiante: el resultado es cuarenta y ocho'
+'Robot: El resultado es 48. \n\nResuelve el siguiente problema de aplicación: Una población de mariposas se triplica cada semana. Si al principio hay 50 mariposas, ¿cuántas habrá después de 2 semanas?'
+'Estudiante: resultado sería cuatrocientos cincuenta'
+'Robot: El resultado es correcto. \n\nFinalizamos la sesión. Nos vemos en otra ocasión.'

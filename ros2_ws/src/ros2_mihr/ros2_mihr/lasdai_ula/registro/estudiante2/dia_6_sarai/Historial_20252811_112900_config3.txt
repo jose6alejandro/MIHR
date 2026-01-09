@@ -1,0 +1,15 @@
+Objetivo: El estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20252811_112900
+'Robot: ¡Hola! ¿estás preparado?'
+ 'Estudiante: hola sí'
+ 'Robot: ¡Qué chévere, Sarai! Me contenta un montón que hayas tenido una experiencia tan buena, eso de reportar mejoras y reflexionar sobre los beneficios es genial. ¡Con esa energía, seguro que vamos a disfrutar un mundo explorando nuevas técnicas de respiración!'
+ 'Estudiante: si tiene alguna nueva técnica que enseñarme'
+ 'Robot: ¡Claro que sí, Sarai! Con esa buena vibra que traes, el objetivo de hoy es que nos metamos de lleno a explorar unas técnicas de respiración nuevas. La idea es que las practiquemos para que veas cómo te pueden ayudar a relajarte y a enfocarte mejor cuando más lo necesites.'
+ 'Estudiante: perfecto enséñame una que no sea la respiración diafragma picas cola del cuatro siete ocho'
+ 'Robot: ¡De una, Sarai! Entendido, si el cuatro siete ocho no es lo tuyo, te tengo una buenísima que llamamos la respiración cuadrada, o cuatro-cuatro-cuatro-cuatro. Es súper sencilla, verás: primero, inhalamos por la nariz contando mentalmente hasta cuatro. Luego, mantenemos la respiración por cuatro segundos más. Después, exhalamos suavemente por la boca también en cuatro segundos. Y para cerrar el ciclo, nos quedamos un momentico sin aire por otros cuatro segundos. Repetimos eso unas cuantas veces. ¿Qué te parece si la probamos un ratico y me dices cómo te sientes?'
+ 'Estudiante: si ya la estoy haciendo'
+ 'Robot: ¡Qué bien, Sarai! Tómate tu tiempo para practicarla un ratico. Cuando termines, me cuentas qué tal te sentiste.'
+ 'Estudiante: otra vez media cenit'
+ 'Robot: ¡Claro que sí, Sarai! Si quieres practicarla de nuevo, no hay rollo. Vamos a repasarla una vez más con calma para que la afiances bien: primero, toma aire por la nariz, llenando los pulmones por cuatro segundos. Después, aguantamos la respiración por otros cuatro segundos. Luego, soltamos el aire por la boca, muy suavemente, también por cuatro segundos. Y para cerrar el ciclo, nos quedamos sin aire por un instante, otros cuatro segundos. ¿Lista para darle otra vuelta?'
+ 'Estudiante: no ya me voy a dormir'
+ 'Robot: ¡Qué bueno que lo hiciste, Sarai! Entiendo perfecto, lo importante es que descanses. Que tengas una noche reparadora. ¡Chao, pues! Nos vemos en otra oportunidad si quieres seguir explorando estas técnicas.'

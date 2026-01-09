@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252611_192938
+'Robot: ¡Hola! ¿estamos listos?'
+'Estudiante: estoy listo'
+'Robot: Iniciemos con exponentes y radicales.'
+'Estudiante: okay'
+'Robot: Hoy revisaremos a fondo los exponentes y los radicales para consolidar la comprensión del tema. ¿Te parece bien?'
+'Estudiante: de acuerdo'
+'Robot: Para comenzar, en la expresión 7 elevado a la 5, ¿cómo se denomina al 7 y al 5 en el contexto de las potencias?'
+'Estudiante: siete es la base y el cinco es el exponente'
+'Robot: El siete es la base y el cinco es el exponente. \n\nEn la expresión ocho elevado a la tres, ¿cómo se denomina al ocho y al tres?'
+'Estudiante: el el ocho ochenta la base y tres es el exponente'
+'Robot: El ocho es la base y el tres es el exponente. \n\nEn la expresión "diez elevado a la dos", ¿cómo se denomina al diez y al dos?'
+'Estudiante: quiero otro, dame otro de radicales'
+'Robot: Para pasar a radicales, si tenemos la expresión siete elevado a la un tercio, ¿cómo se expresaría utilizando la notación de radicales?'
+'Estudiante: raíz kubica de siete'
+'Robot: La respuesta es correcta, raíz cúbica de siete. \n\nFinalizamos la sesión. Nos vemos en otra oportunidad.'

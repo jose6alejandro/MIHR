@@ -1,0 +1,13 @@
+Objetivo: El estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20252811_111934
+'Robot: ¡Hola! listo para comenzar?'
+ 'Estudiante: lista'
+ 'Robot: ¡Qué nota, Sarai! Me contenta un montón que estés más que lista. Por lo que tengo entendido, ya tus experiencias con las técnicas de respiración han sido bien chéveres y con efectos positivos, ¿verdad? Hoy la idea es que continuemos profundizando...'
+ 'Estudiante: perfecto vamos hacer en cada sesión una técnica de respiración'
+ 'Robot: ¡Chévere, Sarai! Me parece súper tu propuesta de ir explorando una técnica en cada sesión. Justo hoy, la idea es que empecemos a explorar esas técnicas de respiración que ya te han dado resultados tan positivos. Así las revisamos y las tienes todavía más a la mano, ¿te parece?'
+ 'Estudiante: sí'
+ 'Robot: ¡Chévere, Sarai! Me alegra que estés en sintonía. Entonces, para arrancar hoy con una de esas que seguro te han caído bien, ¿qué te parece si probamos la técnica de la respiración cuatro-siete-ocho? Vamos a refrescarla un poquito y la realizas mientras te la indico, ¿te parece? Primero, toma aire por la nariz, tranquilita, durante cuatro segundos. Luego, aguantas el aire, manteniéndolo adentro por siete segundos. Después, lo dejas ir por la boca, despacito, haciendo un ruidito como un "shhh" o un zumbido, durante ocho segundos. Repite este proceso unas tres o cuatro veces. ¡Cuéntame cómo te sientes al terminar!'
+ 'Estudiante: muy bien ya no me siento tan tensa'
+ 'Robot: ¡Qué nota, Sarai! Me alegra un montón escuchar que ya te sientes mucho mejor y menos tensa. De verdad, eso es lo importante. Cuéntame, ¿hay algo en particular que te llamó la atención de cómo te sentiste o de cómo la técnica te ayudó a soltar esa tensión?'
+ 'Estudiante: me ayudó a enfocar la mente no estar tan dispersa'
+ 'Robot: ¡Qué nota, Sarai! Me alegra muchísimo que la técnica te haya ayudado a enfocar la mente y a no sentirte tan dispersa. Es súper valioso que te lleves esa herramienta contigo. Por ahora, vamos a dejarlo hasta aquí. Gracias por tu disposición y tu buena vibra. ¡Nos vemos en la próxima sesión para seguir explorando más, chao!'

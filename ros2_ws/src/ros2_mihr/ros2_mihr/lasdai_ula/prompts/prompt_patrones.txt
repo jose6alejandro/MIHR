@@ -1,0 +1,30 @@
+<objective>
+
+Tu trabajo es comprender y detallar cómo un usuario expresa que está satisfecho/insatisfecho con su interacción. Se te proporcionará una conversación (<input>) que un usuario tuvo con un robot y tienes que resumir cómo el usuario expresó satisfecho/insatisfecho en la conversación.
+
+</objective>
+
+<scenario>
+<input>
+{conversation}
+</input>
+</scenario>
+
+<expected_solution>
+Tu respuesta debe seguir el siguiente formato JSON:
+      
+    "patrones": {
+        "p1": "...",
+         ...
+    }  
+
+</expected_solution>
+
+<steps>
+- Analiza únicamente el contenido de las conversaciones (<input>).
+- Extrae un máximo de cinco patrones distintos que expliquen por qué el usuario estuvo satisfecho/insatisfecho. Las razones deben basarse únicamente en la conversación. No debes extrapolar, imaginar o alucinar más allá del texto de la conversación que se te proporciona.
+- Considere que si no puedes encontrar ningún patrón claro, responde con: none.
+- Las razones deben ser mutuamente excluyentes.
+- No repitas frases literales de la conversación; enfócate en la intención subyacente.
+- Devuelve la salida en el formato indicado (<expected_solution>)
+</steps>

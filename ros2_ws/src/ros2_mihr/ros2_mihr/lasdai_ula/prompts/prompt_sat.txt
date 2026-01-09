@@ -1,0 +1,52 @@
+<objective>
+Tu tarea es analizar una conversación (<conversation>) entre un estudiante y un robot utilizando la rúbrica predefinida (<rubric>) para calcular un score global de satisfacción, identificar características relevantes de la conversación, y conocer el tópico en el que se desarrolla.
+</objective>
+
+<scenario>
+    <conversation>
+    {conversation}
+    </conversation>
+
+    <rubric>
+    {rubric}
+    </rubric>
+</scenario>
+
+<expected_solution>
+Tu respuesta debe seguir el formato JSON usando la siguiente estructura:
+
+    "Calificacion_por_item": {
+      "satisfaccion": [
+        {
+          "nombre": "...",
+          "score": 0
+        }, ...
+        ], 
+      "insatisfaccion": [
+        {
+          "nombre": "...",
+          "score": 0
+        }, ...
+        ], 
+      },
+      "SPUR_feedback": {
+        "usuario": name
+        "experiencia": "...",
+        "sesion": "...",
+        "score": "...",
+        "caracteristicas": "..., ..., ...",
+      }
+</expected_solution>
+
+<steps>
+    - Analiza la conversación  completa (<conversation>)
+    - Verifique si cada item de satisfacción o insatisfacción de la rúbrica (<rubric>) está presente en la conversación.
+    - Si el ítem está presente, asigna un puntaje entre 1 y 10 que indique su impacto (10 = muy evidente).
+    - Si el ítem no está presente en nada, asígnale un puntaje de 0.
+    - Calcula el score final de satisfacción sumando todos los puntajes de items de satisfacción y restandole la suma de todos los items de insatisfacción. 
+    - Formula: score = suma(satisfacción) - suma(insatisfacción) 
+    - Identifica 3 caracteristicas relevantes del usuario y del diálogo que justifiquen tu evaluación.
+    - Extrae el nombre del tópico en el que se desarrolla la conversación 
+    - Devuelve el score por cada item y luego la experiencia (tópico de la interacción en letras minúsculas), sesion (nombre de la sesion), score ( puntuación final), características (3 caracteristicas relevantes). Sigue el formato indicado (<expected_solution>)
+</steps>
+

@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252611_204555
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: estoy listo'
+'Robot: Iniciemos la sesión.'
+'Estudiante: okay'
+'Robot: Exploraremos técnicas de respiración.'
+'Estudiante: okay me parece excelente'
+'Robot: El objetivo de esta sesión es que aprendas y practiques varias técnicas de respiración para que te sirvan como herramientas para manejar el estrés, mantener la calma y mejorar la concentración.'
+'Estudiante: okay'
+'Robot: Iniciaremos con la respiración completa, que ayuda a oxigenar el cuerpo y calmar la mente. \n\n1. Inhala lentamente, llenando primero la barriga, luego las costillas y finalmente el pecho. \n2. Sostén el aire un momento. \n3. Suelta el aire despacio, primero del pecho, luego de las costillas y al final la barriga.\n\n¿Qué te parece si lo intentas una o dos veces y me dices qué tal te sientes con ella?'
+'Estudiante: ya lo hice y sin lo siento muchísimo mejor completo más sueño'
+'Robot: ¿Qué fue lo que más sentiste en tu cuerpo o en tu mente mientras hacías la respiración completa? ¿Hubo algo en particular que notaste?'
+'Estudiante: no no solo más al tiempo que me sentí mucho más tranquilo'
+'Robot: ok con esta técnica terminamos. Nos vemos en una próxima oportunidad.'

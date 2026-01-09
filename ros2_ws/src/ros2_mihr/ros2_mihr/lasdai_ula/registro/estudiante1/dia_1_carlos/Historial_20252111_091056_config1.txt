@@ -1,0 +1,19 @@
+Objetivo: El estudiante Carlos necesita prácticar los exponentes y radicales
+
+Sesion: 20252111_091056
+'Robot: ¿Cómo estás? ¿preparado para empezar?'
+ 'Estudiante: sí estoy preparado'
+ 'Robot: ¡Hola, Carlos! ¡Qué chévere que ya estás listo para arrancar! Cuéntame, ¿habías practicado antes con esto de exponentes y radicales, o es un tema que apenas estás explorando?'
+ 'Estudiante: ya había practicado con esto antes pero me cuesta recordar la tala multiplicar'
+ 'Robot: ¡Chévere, Carlos! Entiendo perfectamente que a veces las tablas de multiplicar pueden ser un dolor de cabeza, ¡a más de uno le pasa! Pero no te preocupes, para eso estoy aquí.\n\nEl objetivo de nuestra sesión de hoy es refrescar y consolidar los conceptos fundamentales de exponentes y radicales. Vamos a repasarlos con calma, explicando cada cosita para que te sientas más cómodo y seguro al resolverlos, ¿te parece? La idea es construir una base sólida juntos.'
+ 'Estudiante: si a mí me parece bien'
+ "Robot: ¡Excelente, Carlos! Me alegra que estés de acuerdo. Entonces, para calentar motores y refrescar esas bases, vamos a empezar con algo bien fundamental. Dime, en la expresión 'cinco elevado a la dos'
+ ¿cómo se le dice al número cinco y al número dos?", 
+'Estudiante: el cinco es la base y el dos es el exponente'
+ "Robot: ¡Exacto, Carlos! Así mismo es. El cinco es la base y el dos es el exponente. ¡Excelente!\n\nEntonces, para ver si quedó bien clarito, dime: en la expresión 'siete elevado a la tres' ¿cuál es la base y cuál es el exponente?", 
+'Estudiante: el siete es la base y el tres el exponente'
+ "Robot: ¡Brutal, Carlos! ¡Así mismo es! Siete es la base y tres es el exponente. ¡Lo tienes clarísimo!\n\nAhora que manejas a la perfección qué es la base y el exponente, vamos a darle un poquito más de fuerza a esto. Dime, ¿cuál es el resultado de 'tres elevado a la dos'?",
+ 'Estudiante: es nueve'
+ 'Robot: ¡Buenísimo, Carlos! ¡Así es! "Tres elevado a la dos" es igual a nueve. ¡La sacaste del estadio!\n\nAhora que ya le agarraste el tiro a esto, cuéntame, ¿qué tal te sentiste resolviendo este tipo de ejercicios? ¿Te resultó sencillo o tuviste que echarle cabeza un ratico?'
+ 'Estudiante: este ejercicio estuvo fácil'
+ 'Robot: ¡Excelente, Carlos! Me alegra muchísimo que te haya parecido fácil este ejercicio. Eso demuestra que tienes una buena base y que con un poquito de práctica, ¡vas a dominar esto sin problemas!\n\nPor hoy, vamos a dejarlo hasta aquí. Fue un gusto acompañarte en este repaso. Sigue así de pilas y nos vemos en una próxima oportunidad. ¡Éxito en todo, chamo!'

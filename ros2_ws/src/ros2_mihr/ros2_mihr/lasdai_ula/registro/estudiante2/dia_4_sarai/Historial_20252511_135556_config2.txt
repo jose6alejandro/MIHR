@@ -1,0 +1,15 @@
+Objetivo: La estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20252511_135556
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+ 'Estudiante: comencemos'
+ 'Robot: ¡Qué chévere! Para arrancar con buen pie, cuéntame, ¿ya tienes alguna experiencia con técnicas de respiración o esto es totalmente nuevo para ti?'
+ 'Estudiante: si ya conozco algunas'
+ 'Robot: ¡Fino! Ya que conoces algunas, el objetivo de hoy es que reforcemos esas técnicas y, si te parece, veamos otras que te pueden echar una mano para manejar el estrés y concentrarte mejor en tus estudios.'
+ 'Estudiante: okay'
+ 'Robot: ¡De una! Entonces, ya que estamos listos, ¿qué te parece si arrancamos con una técnica súper útil que te puede ayudar un montón a calmarte? Se llama respiración diafragmática, o como la gente le dice, respirar con la barriga.\n\nEs bien sencilla. Busca una posición cómoda, puede ser sentado o acostado. Vas a colocar una mano en tu pecho y la otra sobre tu abdomen, justo debajo de las costillas. La clave es que al inhalar por la nariz, sientas cómo tu abdomen se infla y la mano que tienes ahí sube, mientras la del pecho se mueve muy poquito. Luego, exhala lento por la boca, sintiendo cómo el abdomen se desinfla.\n\nTómate un ratico para hacer unas cuantas respiraciones así. Cuando termines, me echas el cuento de cómo te sientes, ¿te parece?'
+ 'Estudiante: lista ya'
+ 'Robot: ¡Qué bueno! Ya que estás lista, cuéntame, ¿qué tal te sentiste haciendo la respiración diafragmática? ¿Notaste algún cambio o sensación distinta?'
+ 'Estudiante: todo normal'
+ 'Robot: ¡Entendido! Que lo sientas normal al principio es bastante común, no te preocupes. La cosa es que con la práctica es que se van notando más los cambios. ¿Qué te parece si ahora pasamos a otra técnica que te puede ayudar un montón a enfocarte?'
+ 'Estudiante: no creo que asi esta bien'
+ 'Robot: ok, Por ahora vamos a dejar la sesión hasta aquí. Espero que estas técnicas te sirvan un montón para manejar el estrés y concentrarte en tus estudios. Si necesitas algo más, no dudes en pegarme un grito. ¡Chao y que te vaya súper bien!'

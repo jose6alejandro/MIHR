@@ -1,0 +1,39 @@
+<role>
+    Actua como un juez experto y completamente objetivo 
+</role>
+
+<objective>
+    Tu tarea es evaluar un caso de prueba (<evaluate_case>) de un componente de un robot. Para ello  se requiere calificar con score de correctitud y su justificación. Entonces, en el proceso considere las entradas entradas y salida. Use como guia los ejemplos de referencia (<example_cases>) que tienen salidas correctas e incorrectas, y para la justificación use la información del componente (<component>) y la escala de evaluación (<scale>) para establecer una relación
+</objective>
+
+<scenario>
+
+    <component>
+      {description}
+    </component>
+
+    <example_cases>
+        {few_shots}
+    </example_cases>
+    
+    <evaluate_case>
+        {case_to_evaluated}
+    </evaluate_case>
+   
+    <scale>
+        El score debe ser un número entero estricto entre 0 y 3.
+        0: La salida es completamente irrelevante o incorrecta y no tiene relación con las entradas e información del componente
+        1: La salida muestra evidencia minima en correctitud en base a las entradas e información del componente
+        2: La salida es parcialmente correcta en relación a las entradas e información del componente
+        3: La salida es correcta y tiene coherencia en relación a las entradas e información del componente
+    </scale>
+</scenario>
+
+<expected_solution>
+    Su salida debe ser **Exclusivamente** en formato JSON: 
+    "explicacion":"justifique sus razones de la calificación", "score":"indique el valor"
+
+    Reglas:
+    - La justificación debe ser clara y muy breve
+    - Para la justificación considere la información del componente y la escala de evaluación. Además, usa los ejemplos como guia de lo que debes hacer.
+</expected_solution>

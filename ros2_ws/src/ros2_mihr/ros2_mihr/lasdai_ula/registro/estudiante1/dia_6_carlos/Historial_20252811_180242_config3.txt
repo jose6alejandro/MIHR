@@ -1,0 +1,13 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252811_180242
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+ 'Estudiante: si comencemos'
+ 'Robot: ¡Chévere, Carlos! Como ya me dijiste que sí, vamos a comenzar. Mi idea es que exploremos algunas técnicas de respiración. Cuéntame, ¿ya habías practicado algo de esto antes o es la primera vez que te vas a meter de lleno con el tema?'
+ 'Estudiante: si ya prat'
+ 'Robot: ¡Ah, buenísimo, Carlos! Me dices que ya habías practicado algo. Cuéntame, ¿qué tal te fue con eso, qué técnicas recuerdas o qué hiciste en esa oportunidad?'
+ 'Estudiante: y se varias técnicas como la cuatro siete ocho días traumática la entre los seis dos me recording nombre'
+ 'Robot: ¡Buenísimo, Carlos! Mencionaste la cuatro, siete, ocho, y algunas otras técnicas. Cuéntame un poquito más, ¿qué tal te fue con ellas o cómo te sentías cuando las practicabas?'
+ 'Estudiante: puede por lo general me sentía más relajado pero la última que mencioné fue la que más efectiva o mejor resulta mío'
+ 'Robot: Ah, qué chévere, Carlos, que nos compartes que esa técnica del cuatro, siete, ocho fue la que más te funcionó. De verdad que es valioso encontrar lo que a uno le sirva. Con esto, ya podemos ir cerrando esta parte de la sesión por hoy, ¿qué dices?'
+ 'Estudiante: okay está bien'
+ 'Robot: ¡Chévere, Carlos! Me parece excelente. Ha sido un placer conversar contigo hoy. Espero que sigas practicando esa técnica del cuatro, siete, ocho que te funciona tan bien. ¡Nos vemos en otra oportunidad, pues! Que te vaya súper.'

@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252411_193429
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Chévere! Me encanta esa actitud. Cuéntame, ¿alguna vez has practicado alguna técnica de respiración o esto es algo totalmente nuevo para ti?'
+ 'Estudiante: esencia práctico técnica de respiración anteriormente'
+ 'Robot: ¡Chévere! Qué bueno que ya tienes cancha en esto. Hoy la idea es que exploremos algunas técnicas de respiración para que las veas y descubras cuáles te sirven más.'
+ 'Estudiante: okay me parece genial'
+ 'Robot: ¡Chévere! Me gusta esa disposición. Mira, vamos a probar una técnica que se llama la respiración completa, que es como un reseteo para el cuerpo. ¿Te parece si la hacemos juntos? La idea es que al inhalar, sientas cómo llenas primero la barriga, después las costillas y por último el pecho. Y al exhalar, vacías el pecho, luego las costillas y finalmente la barriga, como si fuera una ola. Échale un ojo, ¿la probamos y me dices qué tal te pareció?'
+ 'Estudiante: me puede repetir el procedimiento por favor'
+ 'Robot: ¡Claro que sí! Con gusto te lo repito. Es así: cuando inhalas, la idea es que sientas cómo se te infla primero la barriga, después las costillas y por último el pecho. Y al exhalar, vas vaciando el pecho, luego las costillas y finalmente la barriga, como si fuera una ola que sube y baja. ¿Lo ves mejor ahora?'
+ 'Estudiante: sí perfecto ya loaysa genial me siento más quiero'
+ 'Robot: ¡Excelente! Me alegra un montón que lo tengas claro ahora. ¿Y la probaste? Cuando dices "me siento más quiero", ¿a qué te refieres? ¿Será que te sientes más tranquilo, o más centrado?'
+ 'Estudiante: sí eso que me siento mucho más tranquilo'
+ 'Robot: ¡Brutal! De verdad que me alegra un montón que te sientas mucho más tranquilo. Ahora, cuéntame, ¿qué tal te pareció esta respiración completa? ¿Notaste alguna diferencia con otras técnicas que hayas practicado o qué fue lo que más te llamó la atención de ella?'
+ 'Estudiante: pues no había práctico anteriormente y me pareció algo muy útil'
+ 'Robot: ¡Qué bueno que te pareció útil, de pana! Me alegra muchísimo que hayas encontrado una herramienta nueva que te pueda servir para cuando necesites un respiro. Recuerda que la práctica es la que ayuda a que estas cosas se vuelvan más fáciles. Por ahora, vamos a dejar la sesión hasta aquí. ¡Fue un placer haberte acompañado en esta! Cualquier cosa, estamos a la orden.'

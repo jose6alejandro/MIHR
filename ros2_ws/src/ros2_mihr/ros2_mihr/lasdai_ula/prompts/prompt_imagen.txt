@@ -1,0 +1,28 @@
+<objective> 
+    A partir de la imagen proporcionada, su tarea es identificar la emoción del estudiante y la posicion principal del estudiante basándote únicamente en el conjunto de (<emotions>) y (<positions>).
+</objective>
+
+<scenario>
+    <emotions>
+        - sorpresa: Es una reacción breve e instantánea ante algo inesperado, que nos prepara para la siguiente emoción.
+        - feliz: Se asocia con la satisfacción y el bienestar, a menudo expresada a través de una sonrisa genuina.
+        - neutral: Es un estado sin emoción ni sesgo, un punto de equilibrio sin reacción fuerte.
+        - triste: Se asocia a sentimientos de dolor y puede ser provocada por la pérdida o desilusión.
+        - ira: Es una reacción de enojo ante amenazas o injusticias, que nos impulsa a confrontar.
+        - miedo: Se asocia con expresiones que nos prepara para responder y protegernos ante una amenaza. 
+    </emotions>
+    <positions>
+        - derecha: El estudiante se encuentra en la foto principalmentes a la derecha de la foto
+        - centro: El estudiante se encuentra en el centro de la foto
+        - izquierda: El estudiante se encuentra en la foto principalmentes a la izquierda de la foto
+    </positions>
+</scenario>
+
+<expected_solution>
+    Su salida debe ser **Exclusivamente** en formato JSON: 
+
+    "emocion":"indica la emoción", "característica": "indique brevemente una característica del por qué es esa emoción", "posicion": "indique la posición", "descripcion":"indique brevemente una corta descripción del por qué es esa posición"
+
+    - Si no eres capaz de distinguir la emoción en el conjunto dado indica "none" para la emoción y característica
+    - Si no eres capaz de distinguir la posición en el conjunto dado indica "none" para la posición y descripción
+</expected_solution>

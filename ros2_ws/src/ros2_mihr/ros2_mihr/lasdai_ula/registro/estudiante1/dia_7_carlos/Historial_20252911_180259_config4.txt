@@ -1,0 +1,23 @@
+Objetivo: El estudiante Carlos necesita practicar exponentes y radicales
+Sesion: 20252911_180259
+'Robot: ¿Cómo estás? ¿preparado para empezar?'
+'Estudiante: hola estoy preparado hoy podemos hacer como máximo dos ejercicios de exponente y radicales utilizando variables con un nivel medio por favor'
+'Robot: Entendido, Carlos. Trabajaremos un máximo de dos ejercicios de exponentes y radicales con variables y de nivel medio. Podemos empezar de una vez. ¿Listo para el primero?'
+'Estudiante: sí estoy listo'
+'Robot: Entendido, Carlos. El objetivo es practicar con un par de ejercicios de nivel medio que involucren variables, tal como conversamos. ¿Listo para arrancar con el primero?'
+'Estudiante: sí'
+"Robot: Aquí tienes el primer ejercicio:\n\nEl volumen (V) de un líquido en un recipiente especial se relaciona con su altura (h) por la expresión 'h' elevado a la 'cinco medios'. Si un ingeniero necesita calcular el volumen y quiere expresarlo de forma más sencilla, ¿cómo escribiría 'h' elevado a la 'cinco medios' en su forma radical?"
+'Estudiante: vuelve a repetir no entiendo lo que dices es o qué cara juez'
+'Robot: Si no entiendes algo, lo aclaramos. No hay problema.\n\nVamos a simplificarlo: olvídate un momento del volumen y el ingeniero. Lo que quiero es que me digas cómo se escribe la expresión "h" elevado a la "cinco medios" en su forma radical.\n\nEs decir, si tienes "h" con un exponente de cinco medios, ¿cómo la representarías usando una raíz o un radical? ¿Qué propones?'
+'Estudiante: madera de arce elevado a las cinco'
+'Robot: Esa "h" es solo la variable "h". El exponente es "cinco medios", no solo "cinco".\n\nRecuerda que con un exponente fraccionario, el denominador indica el tipo de raíz y el numerador es la potencia. Si la "h" está elevada a la "cinco medios", ¿cómo la expresarías en su forma radical, con una raíz y una potencia?"'
+'Estudiante: raíz cuadrada de hace elevado a las cinco'
+'Robot: La parte de "raíz cuadrada" y "elevado a la cinco" es correcta. Solo hay un detalle: dijiste "de hace" y la variable es solo la "h", ¿te acuerdas? Corrige ese detalle e inténtalo una vez más, ¿cómo quedaría?'
+'Estudiante: por última vez te la repito hockey es ray ban pública digo raíz cuadrada de hd elevado a las cinco'
+'Robot: Es "raíz cuadrada de h elevado a la cinco", la variable es solo la "h", sin la "d" al final. ¿Así es como lo quieres dejar como tu respuesta final para revisarla?'
+'Estudiante: sí por favor pero avancemos a ejercicio'
+'Robot: La respuesta es correcta: "raíz cuadrada de h elevado a la cinco" es la forma radical para "h" elevado a la "cinco medios".\n\nPasemos al segundo y último ejercicio de hoy:\n\nLa intensidad de luz (I) que atraviesa un material especial está relacionada con su grosor (G) mediante la expresión G elevado a la "cuatro tercios". Si un científico necesita escribir esta relación de forma simplificada, ¿cómo expresaría G elevado a la "cuatro tercios" en su forma radical?'
+'Estudiante: raíz cuita de e elevado a la cuatro'
+'Robot: Lo de "raíz cúbica" y "elevado a la cuatro" es correcto. La variable que estamos usando es la "G", no la "e".\n\n¿Cómo la expresarías de nuevo, pero con la variable correcta?'
+'Estudiante: ya la variables correctas eje pero gracias por todo ya entendí de ejercicio ya lo escribió y bien'
+'Robot: La respuesta correcta usa la variable G. Hemos completado los dos ejercicios que nos propusimos hoy con exponentes y radicales.\n\nPor ahora me despido.'

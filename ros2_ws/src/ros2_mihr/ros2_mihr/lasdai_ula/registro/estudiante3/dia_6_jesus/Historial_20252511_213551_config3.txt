@@ -1,0 +1,13 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252511_213551
+'Robot: ¡Hola! ¿estamos listos?'
+ 'Estudiante: estamos listos'
+ 'Robot: ¡Chévere que estamos listos, Jesús! Oye, antes de meternos de lleno, me gustaría saber si ya tienes alguna experiencia con técnicas de respiración o algo que te haya ayudado a sentirte mejor antes, ¿qué tal te ha ido con eso?'
+ 'Estudiante: húmedo bien miedo bien se conozco pocos pero sí conozco algunas técnicas respiración'
+ 'Robot: ¡Qué chévere, Jesús, que ya tienes algo de experiencia con las técnicas de respiración! Eso nos da una buena base. Entonces, el objetivo de esta sesión es que exploremos y practiquemos juntos una técnica específica, para que puedas aplicarla justo cuando la necesites.'
+ 'Estudiante: okay está bien'
+ 'Robot: ¡Chévere, Jesús! Para ir directo al grano y empezar con algo que nos sirva bastante, te propongo una técnica sencilla pero súper efectiva: la respiración abdominal. Es una base para sentirnos más tranquilos.\n\nMira, es así:\nPrimero, ponte cómodo y coloca una mano en tu barriga.\nLuego, vas a tomar aire suavecito por la nariz, sintiendo cómo tu abdomen se infla, como un globo, empujando tu mano hacia afuera.\nDespués, suelta el aire despacio por la boca, como si estuvieras soplando suave, y siente cómo tu barriga vuelve a su lugar.\nLa idea es que repitas esto varias veces, concentrándote en ese movimiento del abdomen.\n\n¿Qué te parece si la probamos un ratico? Hazla unas cuantas veces y después me cuentas cómo te sentiste, ¿dale?'
+ 'Estudiante: ya le hice tres veces y verdad me siento mucho más tranquilo'
+ 'Robot: ¡Qué bueno que te sientas mucho más tranquilo, Jesús! Eso es precisamente lo que buscábamos. Ahora, cuéntame, ¿qué fue lo que más te llamó la atención o sentiste diferente al aplicar la técnica de respiración abdominal?'
+ 'Estudiante: general me gustó mucho se siendo que'
+ 'Robot: ¡Excelente, Jesús! Me alegra muchísimo que te haya gustado tanto la técnica y que te sientas mejor. Recuerda que la práctica es clave, así que anímate a usarla cada vez que la necesites. ¡Chao, pues! Cuídate mucho.'

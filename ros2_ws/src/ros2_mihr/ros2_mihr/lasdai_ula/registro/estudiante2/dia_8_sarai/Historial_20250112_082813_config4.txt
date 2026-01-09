@@ -1,0 +1,17 @@
+Objetivo: El estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20250112_082813
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+'Estudiante: sí'
+'Robot: Sarai, se aprovechará la sesión al máximo.'
+'Estudiante: perfecto'
+'Robot: Sarai, el objetivo es revisar los puntos clave, aclarar dudas y entender completamente el tema. La sesión se adapta a lo que necesites.'
+'Estudiante: me parece qué me recomiendas'
+'Robot: Sarai, se recomienda comenzar con los puntos clave o dudas pendientes. ¿Tienes alguna duda puntual?'
+'Estudiante: no no tengo duda por eso te preguntó qué quieres que hablemos'
+'Robot: Sarai, se propone revisar técnicas de respiración. Son útiles para manejar el estrés y mejorar la concentración. ¿De acuerdo?'
+'Estudiante: magnifico me gustaría que me mostrarás o enseñarás una quien no conozca seat hoy quiero aprender algo nuevo una que no conozca'
+'Robot: Sarai, se sugiere la respiración nasal alterna. Es efectiva para la calma y la concentración.\n\nInstrucciones:\n1. Con el pulgar, tapa el orificio izquierdo de la nariz.\n2. Exhala todo el aire por el orificio derecho.\n3. Suelta el orificio izquierdo, tapa el derecho con el anular, e inhala lento por el izquierdo.\n4. Destapa el derecho y exhala por él.\n5. El ciclo es alternar: Inhala por una fosa y exhala por la otra, e invierte en la siguiente. Inhalar por donde se exhaló, exhalar por donde se inhaló.\n\nPractica la técnica y comenta las sensaciones.'
+'Estudiante: gracias esta técnica ya la conocía pero no me cayó mal hacerla de nuevo'
+'Robot: Sarai, es bueno que ya conocieras la técnica. ¿Cómo te sentiste al practicarla de nuevo? ¿Notaste algo diferente o la sensación fue útil?'
+'Estudiante: me tranquilicé'
+'Robot: Sarai, es bueno que te hayas tranquilizado. La sesión termina aquí. Se recomienda seguir practicando la técnica.'

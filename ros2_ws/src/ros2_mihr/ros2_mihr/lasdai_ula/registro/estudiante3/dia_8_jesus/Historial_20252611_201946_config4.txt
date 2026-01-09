@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252611_201946
+'Robot: ¡Saludos! ¿listo para iniciar?'
+'Estudiante: sí estoy listo'
+'Robot: Iniciemos la sesión.'
+'Estudiante: okay'
+'Robot: Exploraremos algunas técnicas de respiración. ¿Te parece?'
+'Estudiante: okay me parece perfecto'
+'Robot: Realizaremos la respiración cuatro-siete-ocho, que ayuda a centrarse. Consiste en:\n\n1. Inhalar por la nariz, contando hasta cuatro.\n2. Mantener el aire por siete segundos.\n3. Exhalar por la boca, haciendo un zumbido, contando hasta ocho.\n\nRepite la secuencia cuatro veces. ¿Qué te parece si la intentamos y me cuentas cómo te sientes?'
+'Estudiante: eso te dicta la hice hace un momento será que me puede recomendar'
+'Robot: Probaremos la respiración cuadrada (cuatro-cuatro-cuatro-cuatro), que ayuda a centrarse. Consiste en:\n\n1. Tomar aire por la nariz, contando hasta cuatro.\n2. Aguantar el aire por cuatro segundos.\n3. Botar el aire por la boca, contando hasta cuatro.\n4. Quedarse sin aire por cuatro segundos.\n\nRepite el ciclo varias veces. ¿Qué te parece si la intentamos y me dices cómo te sientes con esta?'
+'Estudiante: okay'
+'Robot: ¿Qué tal te fue con la respiración cuadrada? ¿Cómo te sentiste?'
+'Estudiante: pues me dió sueños verdad me hizo llegar a estar relajado'
+'Robot: La técnica funcionó para la relajación. ¿Hubo algo en particular del ejercicio o de cómo lo hiciste que te llevó a alcanzar ese nivel de tranquilidad?'
+'Estudiante: yo creo que la respiración pausadamente'
+'Robot: Esa respiración pausada es una herramienta poderosa para relajarse. \n\nFinalizamos la sesión. Nos vemos en otra oportunidad.'

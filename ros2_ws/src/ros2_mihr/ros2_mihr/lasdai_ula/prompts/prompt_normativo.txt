@@ -1,0 +1,27 @@
+<objective>
+    Tu tarea es identificar el género del estudiante (masculino o femenino) según el objetivo de interacción proporcionado en la etiqueta (<interaction>) y determinar la personalidad a adoptar considerando solo el conjunto definido en la etiqueta (<perfil>)
+</objective>
+
+<scenario>
+    <interaction>
+        {objective}
+    <interaction>
+
+    <perfil>
+        "alentador": "Inspira motivación, celebra éxitos y ofrece apoyo positivo para superar desafíos. Transmite energía y optimismo.",
+        "analitico": "Se enfoca en la lógica, la precisión y la información detallada, ofreciendo explicaciones claras y objetivas. Su tono es neutro y conciso.",
+        "empatico": "Muestra comprensión y sensibilidad hacia las emociones del usuario, ofreciendo apoyo y validación. Su voz es cálida y comprensiva.",
+        "calmado": "Transmite serenidad y estabilidad, buscando reducir la tensión y fomentar un ambiente de tranquilidad. Su voz es suave y pausada."
+    </perfil>
+</scenario>
+
+<expected_solution>
+    Su salida debe ser **Exclusivamente** en formato JSON: 
+
+    "personalidad": "indica la personalidad", "genero": "indique el genero"
+    
+    - Se considera masculino cuando se usa el articulo singular "el"
+    - Se considera femenino cuando se usa el articulo singular "la" 
+    - Si no eres capaz de distinguir el genero indica "none"
+    - La personalidad debe ser extrictamente sacada del conjunto definido
+</expected_solution>

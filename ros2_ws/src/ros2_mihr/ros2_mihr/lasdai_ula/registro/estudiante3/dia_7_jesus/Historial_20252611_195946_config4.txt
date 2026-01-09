@@ -1,0 +1,17 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252611_195946
+'Robot: ¡Bienvenido! ¿arrancamos?'
+'Estudiante: sí estoy listo'
+'Robot: ¿Cómo te sientes con el tema de los exponentes y radicales? ¿Ya los conoces bien o es algo que vamos a repasar desde cero?'
+'Estudiante: lo que sí conozco bien'
+'Robot: Reforzaremos los conocimientos, practicaremos y aclararemos dudas sobre el tema. ¿Te parece bien?'
+'Estudiante: de acuerdo'
+'Robot: Para comenzar, en la expresión 7 elevado a la 4, ¿qué nombre recibe el número 7 y cuál el número 4?'
+'Estudiante: en siete es la base y otros de la exponente pero de este tipo ya hice'
+'Robot: El siete es la base y el cuatro es el exponente. \n\nCalcula el resultado de 3 elevado a la 3 más 2 elevado a la 4.'
+'Estudiante: me repite la expresión'
+'Robot: La expresión es: ¿cuánto da 3 elevado a la 3 más 2 elevado a la 4?'
+'Estudiante: el resultado sería cuarenta y tres'
+'Robot: Cuarenta y tres es el resultado correcto. \n\nCalcula el resultado de 4 elevado a la 3 menos 4 elevado a la 2.'
+'Estudiante: cuarenta y ocho'
+'Robot: El resultado es correcto. Nos vemos en la próxima.'

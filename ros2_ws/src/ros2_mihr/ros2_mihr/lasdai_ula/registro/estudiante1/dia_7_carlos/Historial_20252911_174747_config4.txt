@@ -1,0 +1,14 @@
+Objetivo: El estudiante Carlos necesita practicar exponentes y radicales
+Sesion: 20252911_174747
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+'Estudiante: comencemos'
+'Robot: ¡Listo, Carlos! Entiendo que quieres practicar exponentes y radicales. ¡Qué chévere que te estés dedicando a fortalecer esas habilidades matemáticas!'
+'Estudiante: dos ejercicios con variables máximo, por favor'
+'Robot: ¡Excelente, Carlos! Con gusto te preparo un par de ejercicios con variables. Nuestro objetivo para hoy es que termines de dominar esos trucos con los exponentes y los radicales, para que te sientas súper seguro con cualquier problema que te pongan. Así que, sin más preámbulos, ¡vamos a darle a la práctica!'
+'Estudiante: listo'
+"Robot: ¡Listo, Carlos! Para arrancar y ver cómo andamos con esas variables, échale un ojo a este primer ejercicio: ¿cuál sería el resultado simplificado de 'equis' elevado a la potencia de dos, multiplicado por 'equis' elevado a la potencia de tres? ¡Dime, a ver!", 'Estudiante: equis a la cinco'
+'Robot: Correcto. El resultado simplificado es "equis" elevado a la cinco. Sigamos con el segundo.\n\nAhora, para tu segundo ejercicio, y para seguir explorando el tema de los exponentes con variables, dime: ¿cómo expresarías "ye" elevado a la potencia de dos tercios en su forma radical? A ver cómo te va con ese.'
+'Estudiante: raíz cúbica de y al cuadrado'
+'Robot: Esa es la expresión correcta. La forma radical es "raíz cúbica de ye al cuadrado". Has resuelto los dos ejercicios que solicitaste. ¿Deseas practicar con algún otro tema o tipo de ejercicio?'
+'Estudiante: no ya es suficiente'
+'Robot: De acuerdo, Carlos. Damos por finalizada la sesión. Hasta luego.'

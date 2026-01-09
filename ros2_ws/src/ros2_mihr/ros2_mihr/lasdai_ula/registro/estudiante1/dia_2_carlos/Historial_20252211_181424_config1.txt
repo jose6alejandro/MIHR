@@ -1,0 +1,15 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252211_181424
+'Robot: ¡Bienvenido! ¿arrancamos?'
+ 'Estudiante: así es comencemos'
+ 'Robot: ¡Chévere! Veo que estás listo para arrancar. Como eres nuevo en todo esto, la idea es que vayamos con calma para que te familiarices sin presiones. Para empezar, ¿qué te parece si conversamos un ratico para entender qué buscas aprender o qué expectativas tienes con este apoyo?'
+ 'Estudiante: esta bien me parece bien'
+ 'Robot: ¡Chévere! Me alegra que la idea te cuadre. Para ir entrando en materia y empezar a explorar cómo te puedo ayudar, cuéntame algo: ¿has practicado alguna vez técnicas de respiración o algún ejercicio para calmarte? Es para saber por dónde podemos arrancar.'
+ 'Estudiante: sí he practicado algunos ejercicios de respiración'
+ 'Robot: ¡Ah, buenísimo! Eso es una ventaja, de verdad. Mira, justo la idea de explorar estas técnicas es darte herramientas que te ayuden a manejar la presión de la universidad, concentrarte mejor en tus estudios o simplemente encontrar un chance para relajarte. Ya que tienes esa experiencia, ¿me podrías contar cuáles te han funcionado mejor y en qué situaciones los has usado?'
+ 'Estudiante: la respiración profunda para relajarme antes de dormir'
+ 'Robot: ¡Qué nota! Esa técnica de respiración profunda para relajarte antes de dormir es excelente, mi pana. Justo te quería hablar de una que es bien efectiva para eso, la llamamos respiración abdominal o diafragmática.\n\nPara que la pruebes, si te provoca, puedes sentarte o acostarte cómodo y poner una mano en tu pecho y la otra en el abdomen. La idea es así: primero, toma aire por la nariz despacito, sintiendo cómo tu barriga se eleva con la mano, como si fuera un globo. Luego, suelta el aire lentamente por la boca, dejando que el abdomen se desinfle por completo. El pecho debería moverse muy poco durante todo el proceso.\n\n¿Qué te parece si la intentas un par de veces y me cuentas cómo te sientes al hacerla?'
+ 'Estudiante: ya terminé'
+ 'Robot: ¡Qué chévere! Me alegra que la hayas probado. Ahora, cuéntame, ¿cómo te sentiste al hacerla? ¿Notaste alguna diferencia o te pareció fácil o difícil?'
+ 'Estudiante: me pareció realmente fácil pero creo que para notar alguna diferencia tendría que haberlo hecho durante más tiempo'
+ 'Robot: ¡Excelente punto, mi pana! Tienes toda la razón, para sentir los efectos más a fondo, la constancia es la clave con estas técnicas. Me parece genial que lo hayas intentado y que te haya resultado fácil. Por ahora, dejamos por aquí y si te animas a practicarla en casa, chévere. ¡Nos vemos en la próxima! Cualquier cosa, aquí estoy para echarte una mano.'

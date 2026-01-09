@@ -1,0 +1,17 @@
+Objetivo: El estudiante Sarai necesita practicar exponentes y radicales
+Sesion: 20252811_124213
+'Robot: ¡Hola! ¿estás preparado?'
+'Estudiante: sí'
+"Robot: Sarai, los exponentes y radicales pueden ser confusos al pasar de números a variables, pero se busca aclarar el tema."
+'Estudiante: okay'
+'Robot: Sarai, el objetivo de la sesión es analizar los exponentes y radicales. Se verá cómo se aplican en diversas situaciones para manejar el tema con claridad.'
+'Estudiante: dale pues'
+'Robot: Sarai, en la expresión "dos elevado a la cuatro", ¿cómo se le dice al número dos y cómo al número cuatro?'
+'Estudiante: números'
+'Robot: Sarai, son números. En este tema, el número dos, el grande, se llama la base. El número cuatro, el pequeño que indica cuántas veces multiplicar la base, se llama el exponente. ¿Queda más claro?'
+'Estudiante: ajá claro'
+'Robot: Sarai, ¿cuál es el resultado de tres elevado a la cuatro, menos tres elevado a la dos?'
+'Estudiante: setenta y dos'
+'Robot: Setenta y dos es correcto. Situación: Una inversión duplica su valor cada año. Si se inicia con cincuenta dólares, ¿cuánto dinero se tendría después de dos años?'
+'Estudiante: cuento tendemos en dos años'
+'Robot: Sarai, la sesión termina aquí. En la próxima se retoma el ejercicio de la inversión.'

@@ -1,0 +1,15 @@
+Objetivo: La estudiante Sarai necesita prácticar los exponentes y radicales
+Sesion: 20252111_142528
+'Robot: ¡Hola! ¿estás preparado?'
+ 'Estudiante: muy preparada'
+ 'Robot: ¡Qué bueno, Sarai! Me alegra que estés así de preparada. Para arrancar con buen pie, cuéntame, ¿cómo te llevas con los exponentes y los radicales? ¿Ya habías trabajado con eso antes o es algo nuevo para ti?'
+ 'Estudiante: ya los conozco a veces me fastidian porque cuando son números muy altos la respuesta es muy fastidiosa'
+ 'Robot: ¡Excelente, Sarai! Entiendo perfectamente lo que dices, a veces los números grandes nos pueden dar un dolor de cabeza y hacer que las operaciones parezcan más complicadas de lo que son. ¡Pero no te preocupes, para eso estamos aquí!\n\nNuestro objetivo hoy es justamente ese: vamos a repasar los exponentes y los radicales, pero de una manera que te ayude a ver que no son tan "fastidiosos" como parecen. Vamos a descubrir algunas propiedades y truquitos que te van a facilitar mucho la vida, incluso con esos números grandotes. La idea es que te sientas mucho más cómoda y segura al trabajar con ellos.'
+ 'Estudiante: okay'
+ 'Robot: ¡Chévere, Sarai! Me parece perfecto. Para ir calentando motores, vamos a empezar con algo bien básico. En la expresión 7 elevado a la 3, ¿cómo se le dice al 7 y cómo se le dice al 3? ¿Te acuerdas?'
+ 'Estudiante: si siete es la base y tres es el exponente'
+ 'Robot: ¡Exacto, Sarai! Así mismo es. El 7 es la base y el 3 es el exponente. ¡Ves que lo tienes clarísimo!\n\nAhora, para seguir calentando motores y ver si le perdemos el miedo a esos números "fastidiosos", ¿cuánto nos da 7 elevado a la 3? O sea, ¿cuánto es 7 al cubo?'
+ 'Estudiante: trescientos cuarenta y tres'
+ 'Robot: ¡Exacto, Sarai! Trescientos cuarenta y tres es la respuesta correcta, ¡lo tienes clarísimo! Ves que no todos los números altos son tan fastidiosos, ¿verdad? Cuéntame, ¿cómo te sentiste calculando 7 al cubo? ¿Te resultó complicado o fue más bien sencillo?'
+ 'Estudiante: no fue muy complicado'
+ 'Robot: ¡Chévere, Sarai! Me alegra muchísimo que no te haya resultado complicado. Te felicito, lo hiciste excelente y de verdad que le perdiste el miedo a esos números que parecían fastidiosos. Sigue así de pilas, ¡nos vemos en otra oportunidad!'

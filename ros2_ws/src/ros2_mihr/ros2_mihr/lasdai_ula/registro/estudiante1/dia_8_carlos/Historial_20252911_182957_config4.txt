@@ -1,0 +1,13 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252911_182957
+'Robot: ¡Bienvenido! ¿Arrancamos?'
+'Estudiante: arranque quiero hacer una técnica respiración la cual es la variación de la cuatro siete ocho esta vez sería tres cinco siete se puede hacer'
+'Robot: Podemos hacer tu técnica de respiración tres, cinco, siete. ¿Estás listo para empezar?'
+'Estudiante: sí estoy listo'
+'Robot: El objetivo de hoy es que nos metamos de lleno en esa variación de respiración que creaste, la de tres, cinco, siete segundos. Así seguimos explorando lo que mejor te va para tu bienestar.'
+'Estudiante: está bien voy a comenzar la aviso cuando termine'
+'Robot: Ya que estás listo para arrancar, aquí te va la guía de tu técnica tres, cinco, siete: inhala por la nariz contando hasta tres. Luego, aguanta el aire por cinco segundos. Y para cerrar, exhala por la boca o la nariz por siete segundos, botando todo. Hazla a tu ritmo, dale unas cuantas vueltas, y cuando termines, me cuentas de cómo te fue, ¿sí?'
+'Estudiante: que ya terminé me pareció bien la técnica y se fue relajante'
+'Robot: ¿Hubo algo que te pareció más fácil de hacer o algo que se te hizo un poquito más complicado mientras la practicabas?'
+'Estudiante: la complicada es bota el aire durante siete segundos ya que lo hago muy rápido pero de resto todo bien'
+'Robot: Entendido lo de la exhalación. Eso es cuestión de práctica y de irle agarrando el ritmo poco a poco. hasta luego'

@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252411_192539
+'Robot: ¡Hola! listo para comenzar?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Chévere que estés listo! Antes de arrancar, cuéntame un poquito, ¿has tenido alguna experiencia previa con técnicas de respiración?'
+ 'Estudiante: si se de mi experiencia anteriormente'
+ 'Robot: ¡Qué nota que ya tienes tu experiencia con eso! Mira, el objetivo de esta sesión es que exploremos juntos algunas técnicas de respiración para que te ayuden a encontrar la calma y a concentrarte mejor en tus actividades.'
+ 'Estudiante: aunque me parece perfecto'
+ 'Robot: ¡Excelente! Me alegra mucho que te parezca una buena idea. De una, vamos a probar con un ejercicio para que sientas cómo funciona. Te propongo que respires profundo, llevando el aire hasta el abdomen, como si inflaras una barriguita, y luego sueltes el aire despacio por la boca. ¿Te animas a hacerlo unas tres veces y me cuentas qué tal te sientes?'
+ 'Estudiante: listo ya veis en las tres veces y cuyos años'
+ 'Robot: Ajá, un momento. Creo que no te pude pillar bien lo que me dijiste. ¿Me puedes repetir qué tal te sentiste después de las respiraciones?'
+ 'Estudiante: a que me sentí bien de me medio un poquito de sueño pero me sentí bien'
+ 'Robot: ¡Qué nota que te sentiste bien! Y lo del sueño es algo que pasa a veces cuando uno se relaja, es una buena señal. Ahora que lo probaste, ¿qué fue lo que más te llamó la atención de esta técnica de respiración o qué sacaste de ella?'
+ 'Estudiante: pues es muy útil para relajarse creo que solamente es'
+ 'Robot: ¡Excelente que te parezca útil para relajarte! Me alegra muchísimo que esta sesión te haya servido para descubrir o recordar cómo las técnicas de respiración pueden ayudarte a encontrar la calma. De verdad, espero que sigas practicándolas y las apliques cuando lo necesites. ¡Que te vaya chévere, nos vemos en otra oportunidad!'

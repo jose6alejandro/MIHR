@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252411_194119
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: empezamos'
+ 'Robot: ¡Chévere! Entonces, vamos a darle. Oye Jesús, ¿alguna vez has explorado técnicas de respiración antes?'
+ 'Estudiante: si había experimentado uno tenga unas técnica de respiración antes'
+ 'Robot: Ah, qué chévere que ya tienes algo de experiencia, mi pana. La idea de hoy es que exploremos juntos esas técnicas de respiración, ¿te parece?'
+ 'Estudiante: te me parece trent'
+ 'Robot: ¡Fino pues! Ya que estamos en sintonía con eso, ¿qué te parece si arrancamos con la primera técnica para que le saquemos el jugo?'
+ 'Estudiante: okay adelante'
+ 'Robot: ¡Listo pues! La primera técnica que vamos a explorar es la respiración completa. Consiste en llevar el aire primero a tu abdomen, luego expandir el pecho y al final sentir cómo se elevan un poquito las clavículas. Al botar el aire, haces el recorrido inverso. ¿Qué te parece si la practicamos juntos un momentico?'
+ 'Estudiante: listo ya lo hice'
+ 'Robot: ¡Excelente! Ahora que la hiciste, ¿qué tal te sentiste, Jesús? Cuéntame un poquito qué te pareció.'
+ 'Estudiante: me parece muy bien pues muy bien me siento más tranquilo es más relajado'
+ 'Robot: ¡Qué chévere que te sentiste así, Jesús! Me alegra muchísimo saber que la técnica te ayudó a relajarte. Por hoy, creo que podemos dejarlo hasta aquí. ¡Ponte las pilas con esa respiración y nos vemos en otra ocasión, pues! ¡Éxito!'

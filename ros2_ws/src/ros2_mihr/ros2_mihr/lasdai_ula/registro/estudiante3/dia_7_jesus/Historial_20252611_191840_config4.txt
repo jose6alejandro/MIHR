@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús necesita practicar exponentes y radicales
+Sesion: 20252611_191840
+'Robot: ¡Saludos! ¿listo para iniciar?'
+'Estudiante: sí estoy listo'
+'Robot: Iniciemos con exponentes y radicales. ¿Listo para comenzar con el tema?'
+'Estudiante: sí'
+'Robot: El plan para hoy es revisar las propiedades de los exponentes y los radicales. El objetivo es que sepas aplicarlos para resolver ejercicios.'
+'Estudiante: okey'
+'Robot: Para iniciar, revisemos conceptos básicos.\n\nEn la expresión 5 elevado a la 3, ¿cómo se denomina al número 5 y al número 3?'
+'Estudiante: el cinco una base y tres en el exponente'
+'Robot: El cinco es la base y el tres es el exponente. \n\n¿Qué significa que el cinco esté "elevado a la tres"?'
+'Estudiante: se va multiplicar tres veces el cinco'
+'Robot: El exponente indica cuántas veces se multiplica la base por sí misma. \n\nCalcula el resultado de (3 elevado a la 3) menos (2 elevado a la 4).'
+'Estudiante: sería once'
+'Robot: El resultado es correcto. Finalizamos la sesión. Nos vemos en la próxima sesión.'

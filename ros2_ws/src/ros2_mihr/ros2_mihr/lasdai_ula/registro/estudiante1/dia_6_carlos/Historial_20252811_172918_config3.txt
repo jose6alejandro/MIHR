@@ -1,0 +1,13 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252811_172918
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: que onda mi hijo pensemos'
+ 'Robot: ¡Qué chévere, mi pana! ¡Listos para arrancar! Entonces, mira, antes de que nos metamos de lleno en los ejercicios, cuéntame algo: ¿has probado alguna vez alguna técnica de respiración o esto es totalmente nuevo para ti? Así sé por dónde empezar con la explicación, ¿me sigues?'
+ 'Estudiante: si ya he hecho algunas técnicas respiración la de la flemática y la de tener la mano en pecho y en la barriga parras solamente respirar con el barril'
+ 'Robot: ¡Ah, qué bien, mi pana! Ya veo que no eres novato en esto de las respiraciones y que has practicado la abdominal, ¡excelente! Hoy lo que queremos es que sigamos explorando y sumemos otras técnicas a tu repertorio para que tengas más opciones a la hora de relajarte o concentrarte, ¿me sigues?\n\nMira, hay una que es súper efectiva y bastante popular, se le conoce como la respiración cuatro-siete-ocho. Es sencilla: primero, inhalas por la nariz contando mentalmente hasta cuatro. Después, aguantas el aire adentro, contando hasta siete. Y para finalizar, exhalas suavemente por la boca, haciendo un pequeño sonido de "shhh" o un zumbido, mientras cuentas hasta ocho. ¿Te animas a que probemos esa ahora?'
+ 'Estudiante: okey voy a probar y prisa'
+ 'Robot: ¡Chévere! Dale pues, tómate tu tiempo para probarla con calma. Aquí te espero, y cuando termines me cuentas qué tal te pareció, ¿vale?'
+ 'Estudiante: okay ya terminé se siente relajante y también como un plus mientras cierra los ojos siento que es más efectiva'
+ 'Robot: ¡Qué chévere, mi pana! Me alegra un montón que te haya funcionado y que hayas notado cómo cerrar los ojos le da ese toquecito extra de efectividad. Eso es señal de que te estás conectando con la técnica. ¿Qué fue lo que más te gustó o lo que te sorprendió de esta respiración?'
+ 'Estudiante: me gustó que mientras tanto llevar la cuenta pues eso me ayuda a relajar'
+ 'Robot: ¡Excelente, mi pana! Me alegra muchísimo que te haya servido ese truquito de llevar la cuenta para relajarte. Es un detalle que marca la diferencia, ¿verdad? Con esto terminamos por hoy, de verdad que fue un placer acompañarte en esta sesión. ¡Espero que sigas practicando y que estas técnicas te sean de gran ayuda! ¡Nos vemos en otra oportunidad, pues! ¡Un abrazo!'

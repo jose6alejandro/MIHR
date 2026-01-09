@@ -1,0 +1,17 @@
+Objetivo: El estudiante Carlos quiere explorar las técnicas de respiración
+Sesion: 20252211_180217
+'Robot: ¡Qué tal! ¿comenzamos la sesión?'
+ 'Estudiante: dale mija vamos a darle'
+ 'Robot: ¡Excelente! Para ir calentando motores, cuéntame un poquito, ¿has practicado alguna técnica de respiración antes o esto es todo nuevo para ti, vale?'
+ 'Estudiante: acabo de practicar una pero relativamente es nuevo para mí'
+ 'Robot: Ah, chévere que ya tengas una base. Fíjate, el objetivo de esta sesión es que exploremos juntos varias técnicas de respiración para que consigas la que mejor te cuadre y veas cómo te pueden ayudar, pues.'
+ 'Estudiante: okay está bien'
+ 'Robot: ¡Listo pues! Ya que estamos claros, vamos a arrancar con la primera, que es bien sencillita: la respiración diafragmática. La idea es que te concentres en inhalar profundo, sintiendo cómo se te infla la barriga, y al exhalar, la desinflas lentamente. ¿Te parece si la intentamos un ratico juntos?'
+ 'Estudiante: vamos a intentarlo pues'
+ 'Robot: ¡Chévere! Ya que le vas a echar pichón, vamos a arrancar. Primero, ponte cómodo, puedes sentarte o acostarte, lo que te funcione mejor. Coloca una mano en tu pecho y la otra justo encima del ombligo, en tu barriga. La idea es que al tomar aire, sientas cómo la mano de la barriga se eleva, y al soltarlo, baja. Intenta que la mano del pecho se quede lo más quieta posible, ¿vale? Vamos a probarlo unas cuantas veces, respira profundo y lento por la nariz.'
+ 'Estudiante: ya terminé esto parece un ejercicio para de canto'
+ 'Robot: ¡Listo! ¡Qué bueno que le echaste pichón! Ahora sí, cuéntame un poquito, ¿cómo te sentiste con este ejercicio? ¿Te pareció útil, raro, o qué tal fue esa experiencia para ti, mija?'
+ 'Estudiante: no me pareció ni útil ni raro me pareció más bien un ejercicio que se hace en las prácticas de canto'
+ 'Robot: Ah, ya veo, te trajo ese recuerdo. Pero, más allá de eso, cuéntame: ¿sentiste algún cambio, por chiquito que fuera, mientras lo hacías o después de terminar? ¿O simplemente te dejó igual?'
+ 'Estudiante: me parece normal no sentí ningún cambio, pero gracias creo que es por que estoy empezando'
+ 'Robot: Ah, entiendo, A veces pasa que una técnica no termina de conectar con uno, y está bien, no todas nos sirven igual, pues. Lo importante es que le echaste pichón y lo intentaste. Ya por hoy vamos a dejar la sesión hasta aquí, pero si en otro momento quieres seguir explorando más, me avisas. Hasta luego'

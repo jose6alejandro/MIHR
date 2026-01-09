@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252611_200928
+'Robot: ¡Hola! ¿estamos listos?'
+'Estudiante: sí estoy listo'
+'Robot: Iniciaremos con las técnicas de respiración.'
+'Estudiante: sí eso es correcto'
+'Robot: Exploraremos las técnicas de respiración para que aprendas cómo usarlas para relajarte y concentrarte mejor en las actividades diarias.'
+'Estudiante: okay'
+'Robot: Realizaremos un ejercicio: la respiración cuatro-siete-ocho. Consiste en:\n\n1. Tomar aire por la nariz, contando hasta cuatro. \n2. Aguantar la respiración por siete segundos. \n3. Soltar el aire por la boca, despacio, con un sonido de zumbido, contando hasta ocho.\n\nRepite la secuencia unas cuatro veces. ¿Qué te parece si lo intentamos y me cuentas cómo te sientes?'
+'Estudiante: si luego de cuatro sesiones ese todo mucho mejor'
+'Robot: Después de las cuatro repeticiones, ¿hay algo que notaste en particular, o fue una sensación general de calma?'
+'Estudiante: una sensación general de campo de calma'
+'Robot: Esa sensación de calma es el efecto de la técnica. Conectarte con esa tranquilidad es clave.'
+'Estudiante: perfecto'
+'Robot: Finalizamos la sesión. Espero que sigas practicando la respiración cuatro-siete-ocho. Nos vemos en la próxima.'

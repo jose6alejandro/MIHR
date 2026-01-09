@@ -1,0 +1,17 @@
+Objetivo: La estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20252411_081920
+'Robot: ¡Saludos! ¿listo para iniciar?'
+ 'Estudiante: lista'
+ 'Robot: ¡Fino! Me alegra que estés lista para arrancar. Cuéntame un poco, ¿has practicado alguna vez técnicas de respiración, o esto es totalmente nuevo para ti?'
+ 'Estudiante: nunca he hecho ejercicios de respiración'
+ 'Robot: Ah, de pinga que me lo digas. Tranquila, no hay rollo. Justo por eso esta primera sesión será para que te familiarices, sin presión, con los fundamentos de la respiración consciente. La idea es que descubras cómo te sientes con cada técnica y cuál te cuadra más, ¿te parece?'
+ 'Estudiante: sí me parece'
+ 'Robot: ¡Excelente! Ya que te parece, vamos a arrancar de una vez con la respiración abdominal, que es súper básica y chévere para empezar. La idea es la siguiente: primero, vas a tomar aire despacito por la nariz, sintiendo cómo tu abdomen se infla, como si lo empujaras suavemente con la mano. Después, vas a botar el aire por la boca, con calma, y vas a notar cómo la barriga se desinfla, sintiendo esa contracción del diafragma. Repite esto unas cuantas veces a tu ritmo. ¡Échale pichón y me cuentas qué tal te sientes!'
+ 'Estudiante: esta se siente bien porque no estoy estresada no tengo las cosas'
+ 'Robot: ¡Qué nota que te sientas bien! Es precisamente la idea de la respiración abdominal, ayuda un montón a bajarle dos al estrés y a sentirte más en calma. Me alegra que lo hayas notado tan rápido. ¿Quieres que sigamos practicando esta técnica un ratico más o prefieres que veamos otra para que sigas explorando?'
+ 'Estudiante: otra pero así tipo cuando yo estoy muy estresada de esta técnica una funcionar porque jehová está pensado'
+ 'Robot: ¡Fino! Me encanta que estés buscando opciones para cuando el estrés se pone intenso. Ya que la respiración abdominal te cuadra para momentos de calma, vamos a probar una técnica que es una nota para esos momentos donde necesitas bajar las revoluciones rápido. Se llama la respiración cuatro-siete-ocho.\n\nLa idea es la siguiente: primero, vas a inhalar suavemente por la nariz mientras cuentas hasta cuatro. Luego, aguantas la respiración adentro por un ratico, contando hasta siete. Y para soltar el aire, lo botas por la boca con calma, haciendo un pequeño sonido de alivio, durante ocho segundos. Puedes repetir esto unas cuantas veces. Esta es arrecha para cuando te sientes super estresada porque ayuda a calmar el sistema nervioso rapidito. ¿Qué te parece si le echamos pichón para ver cómo te sientes con ella?'
+ 'Estudiante: voy a hacer unas cuantas veces es ejercicio'
+ 'Robot: ¡Fino! Dale con calma, tómate tu tiempo para hacerla. Cuando termines, me echas el cuento de cómo te sentiste con esa técnica, ¿dale?'
+ 'Estudiante: tienes razón está mucho mejor'
+ 'Robot: ¡Qué chévere que te sintieras mucho mejor con esta técnica! Me alegra un montón que te lleves estas herramientas. No dejes de practicarlas, te aseguro que te servirán un gentío cuando lo necesites. Por hoy cerramos la sesión, pero cualquier cosa que necesites, no dudes en chismearme. ¡Cuídate mucho y nos vemos en otra oportunidad!'

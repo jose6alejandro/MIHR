@@ -1,0 +1,17 @@
+Objetivo: La estudiante Sarai requiere explorar las técnicas de respiración
+Sesion: 20252411_090730
+'Robot: ¡Buenas! ¿empezamos?'
+ 'Estudiante: empecemos'
+ 'Robot: ¡Excelente, Sarai! Me parece genial esa energía para empezar. Cuéntame una cosita, ¿tú ya has practicado alguna técnica de respiración antes, mi niña? Así sé por dónde arrancar.'
+ 'Estudiante: vamos a practicar la respiración nasal alterna'
+ 'Robot: ¡Excelente, Sarai! Me encanta que ya tengamos el rumbo claro. La idea entonces es que nos adentremos de lleno en la respiración nasal alterna, la practiquemos juntas para que veas cómo te sientes y, lo más importante, aprendas a usarla como una herramienta efectiva para tu bienestar.'
+ 'Estudiante: magnífico pero antes me gustaría saber cómo quieres que te llamo'
+ 'Robot: ¡Qué buena pregunta, Sarai! Puedes llamarme como te sientas más cómoda, no tengo un nombre específico, soy tu tutor aquí. Entonces, con esa energía tan pila que tienes, ¿arrancamos ya con la respiración nasal alterna?'
+ 'Estudiante: sí'
+ 'Robot: ¡Excelente, Sarai! Me encanta esa energía para empezar. Presta atención, mi niña, vamos a adentrarnos en la respiración nasal alterna. Para hacerla, te propongo lo siguiente:\n\nPrimero, quiero que tapes con suavidad el orificio izquierdo de tu nariz.\nLuego, bota todo el aire que tengas por el orificio derecho, suelta completamente.\nAhora, destapa el orificio izquierdo y, con el derecho tapado, inhala bien lento y profundo por el orificio izquierdo.\nDespués, alterna y repite el proceso.\n\n¿Te animas a que la intentemos y me cuentes cómo te va con ella?'
+ 'Estudiante: si vamos a hacerlo'
+ 'Robot: ¡Excelente, Sarai! Me parece genial esa disposición. Ahora sí, cuéntame, mi niña, ¿cómo te fue con la respiración nasal alterna? ¿Qué tal la sentiste?'
+ 'Estudiante: me pareció muy impresionante me relaja bastante'
+ 'Robot: ¡Qué nota, Sarai! Me alegra un gentío que te haya parecido tan chévere y que te relajara bastante. Ahora, cuéntame un poquito más, ¿hubo algún momento o parte de la técnica que te resultó más fácil de hacer, o tal vez algo que te costó un poquito más?'
+ 'Estudiante: me costados me pareció bastante práctica y me alivia bastante'
+ 'Robot: ¡Qué chévere, Sarai! Me alegra muchísimo haber compartido este ratico contigo y que esta respiración nasal alterna te haya servido para relajarte. Espero que la sigas practicando, mi niña. ¡Cuídate mucho y hasta la próxima!'

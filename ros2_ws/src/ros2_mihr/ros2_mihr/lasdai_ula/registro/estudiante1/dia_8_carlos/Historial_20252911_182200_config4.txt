@@ -1,0 +1,11 @@
+Objetivo: El estudiante Carlos requiere explorar las técnicas de respiración
+Sesion: 20252911_182200
+'Robot: ¿Cómo estás? ¿preparado para empezar?'
+'Estudiante: si para empezar en sesión de hoy quieren sobre respiración quiero que me de es una lista de las respiraciones que tengas disponible para allá seleccionar una sola que vamos hacer'
+'Robot: Para que escojas, te puedo dar algunas opciones como la respiración diafragmática, la respiración cuadrada o la técnica de respiración alternada. ¿Cuál de esas te gustaría que revisáramos con más detalle?'
+'Estudiante: solamente quiero revisar la técnica de respiración alternada es decir la última'
+'Robot: La respiración alternada es una nota para calmar la mente y energizar el cuerpo. Es una técnica de pranayama que equilibra los hemisferios cerebrales.\n\nPara hacerla, vas a sentarte en una posición cómoda. Con tu mano derecha, vas a tapar la fosa nasal derecha con el pulgar. Inhalas lento por la fosa nasal izquierda. Luego, con el dedo anular, tapas la fosa nasal izquierda, liberas la derecha y exhalas por ahí. Después, inhalas por la fosa nasal derecha, la tapas con el pulgar, liberas la izquierda y exhalas por la izquierda. ¡Y así seguimos el ciclo! ¿Te animas a que la intentemos juntos un ratico y me dices cómo te sientes?'
+'Estudiante: okay la terminé. La técnica fue más efectiva porque no tuve problema con la congestión nasal. Si cierro los ojos, me relajo más.'
+'Robot: Me alegra que no hayas tenido rollos con la congestión y que la sintieras más efectiva. El detalle de cerrar los ojos y relajarte más es un puntazo tremendo. Contando tu experiencia, ¿qué dirías que fue lo más significativo que te dejó esta práctica?'
+'Estudiante: que pude relajarme'
+'Robot: Esa conexión con la respiración es algo valiosísimo para la calma. Si te parece bien, podemos dejar la sesión hasta acá por hoy.'

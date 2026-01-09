@@ -1,0 +1,15 @@
+Objetivo: El estudiante Jesús requiere explorar las técnicas de respiración
+Sesion: 20252211_193050
+'Robot: ¡Bienvenido! ¿arrancamos?'
+ 'Estudiante: sí estoy listo'
+ 'Robot: ¡Hola Jesús! ¡Qué chévere que ya estés listo para arrancar! Para empezar, ¿has practicado alguna técnica de respiración antes, o es la primera vez que te lanzas a explorar este tema?'
+ 'Estudiante: si le había hecho alguna técnica de respiración anteriormente'
+ 'Robot: ¡Excelente, Jesús! Ya que tienes alguna experiencia, la idea de hoy es que exploremos otras técnicas de respiración que te van a caer súper bien para que te relajes un ratico. ¿Cómo lo ves?'
+ 'Estudiante: me parece perfecto'
+ 'Robot: ¡Excelente! Me alegra que estés listo para arrancar. Para empezar con buen pie, vamos a probar la respiración diafragmática, que es una técnica súper sencilla y te va a ayudar un montón a calmar la mente.\n\nLa idea es que respires usando el abdomen. Coloca una mano en el pecho y la otra en la barriga, justo debajo de las costillas. Ahora, cuando tomes aire por la nariz, la mano de la barriga debería levantarse más que la del pecho, y al exhalar suavemente por la boca, la barriga se desinfla. ¿Quieres intentar hacer unas cinco respiraciones así, a tu ritmo?'
+ 'Estudiante: okay'
+ 'Robot: ¡Súper! Entonces, cuando estés listo para arrancar con esas cinco respiraciones a tu ritmo, dale. Tómate tu tiempo, sin apuros, y apenas termines me avisas, ¿sí?'
+ 'Estudiante: listo'
+ 'Robot: ¡Listo, Jesús! ¡Qué bueno! Ahora cuéntame, ¿cómo te sentiste al hacer esta técnica de respiración?'
+ 'Estudiante: un poquito de sueño más tranquila'
+ 'Robot: ¡Qué chévere que te hayas sentido así de relajadito y con un poquito de sueño, Jesús! Eso es una señal buenísima de que la técnica diafragmática hizo su trabajo de maravilla, te ayudó a desconectarte y encontrar esa calma. Me alegra muchísimo haberte acompañado en este ratico. Te animo a que sigas practicándola, verás que te va a caer de perlas para esos momentos en los que necesites bajarle dos al estrés. Por ahora, hemos llegado al final de nuestra sesión. ¡Fue un placer haber compartido contigo hoy, Jesús! ¡Que tengas un resto de día genial y nos vemos pronto en otra oportunidad para seguir explorando! ¡Cuídate!'
