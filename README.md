@@ -2,7 +2,7 @@
 Evaluación del Modelo de Interacción Humano-Robot (MIHR) mediante el desarrollo 
 de dos casos de estudio: aprendizaje de las matemáticas y manejo del estrés.
 
-![interacción estudiante y robot](/ros2_ws/src/ros2_mihr/figura.jpg)
+<img src="/ros2_ws/src/ros2_mihr/figura.jpg" width="400" alt="interacción estudiante y robot">
 
 ## Requerimientos
 - Para este proyecto se utilizó ROS2 en la versión humble compatible con ubuntu 22.04, los pasos de descarga estan en el enlace: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
@@ -27,11 +27,12 @@ de dos casos de estudio: aprendizaje de las matemáticas y manejo del estrés.
 - El archivo **run.sh** tiene varias opciones para ejecutar y las principales a usar son:
     - ```./run.sh 1```: habilita y configura el entorno de ROS, y habilita el puerto para el robot LRS2
     - ```./run.sh <nodo>```: ejecute un nodo especifico añadiendo el nombre como párametro 
-    - ```./run.sh ```: ejecute varios nodos en una misma terminal, los nodos disponibles están en el archivo launch.py  
+    - ```./run.sh ```: ejecute varios nodos en una misma terminal, los nodos disponibles están en el archivo launch.py
 
 ## Enlaces importantes 
 - Documento - proyecto de grado (proximamente)
 - [Modelo de Interacción Humano-Robot (MIHR)](https://ieeexplore.ieee.org/document/9381793)
 - [Prompts](ros2_ws/src/ros2_mihr/ros2_mihr/lasdai_ula/prompts)
 - [Historial de conversaciones](ros2_ws/src/ros2_mihr/ros2_mihr/lasdai_ula/registro)
-- Ejemplo de una interacción (proximamente)
+- [Ejemplo de una interacción](https://www.youtube.com/watch?v=PcUrZAlZtA4&list=LL&index=2)
+  
