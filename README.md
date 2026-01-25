@@ -2,7 +2,7 @@
 Evaluación del Modelo de Interacción Humano-Robot (MIHR) mediante el desarrollo 
 de dos casos de estudio: aprendizaje de las matemáticas y manejo del estrés.
 
-![interacción estudiante y robot](/ros2_ws/src/ros2_mihr/figura.png)
+![interacción estudiante y robot](/ros2_ws/src/ros2_mihr/figura.jpg)
 
 ## Requerimientos
 - Para este proyecto se utilizó ROS2 en la versión humble compatible con ubuntu 22.04, los pasos de descarga estan en el enlace: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
