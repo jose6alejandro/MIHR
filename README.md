@@ -30,7 +30,7 @@ de dos casos de estudio: aprendizaje de las matemáticas y manejo del estrés.
     - ```./run.sh ```: ejecute varios nodos en una misma terminal, los nodos disponibles están en el archivo launch.py
 
 ## Enlaces importantes 
-- Documento - proyecto de grado (proximamente)
+- [Documento](http://www.saber.ula.ve/handle/123456789/52250)
 - [Modelo de Interacción Humano-Robot (MIHR)](https://ieeexplore.ieee.org/document/9381793)
 - [Prompts](ros2_ws/src/ros2_mihr/ros2_mihr/lasdai_ula/prompts)
 - [Historial de conversaciones](ros2_ws/src/ros2_mihr/ros2_mihr/lasdai_ula/registro)
