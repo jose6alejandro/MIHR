@@ -1,0 +1,10 @@
+Nodos: 
+Robot: name
+Usuario: name
+Experiencia: name
+Sesion: name, usuario, caracteristicas score
+
+Relaciones:
+(robot, RECONOCE_USUARIO, usuario)
+(usuario, TIENE_EXPERIENCIA, experiencia)
+(experiencia, TIENE_FEEDBACK, sesion)
